@@ -1387,3 +1387,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-15.45.54:674][152]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.04.24-15.45.54:674][152]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,189ms to complete.
 [2023.04.24-15.45.54:674][152]LogFileHelpers: Loading map 'TestMap' took 0.132
+[2023.04.24-15.47.44:063][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.24-15.47.45:041][688]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Map.Map
+[2023.04.24-15.47.45:041][688]Cmd: MAP LOAD FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Levels/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-15.47.45:041][688]LightingResults: New page: Lighting Build
+[2023.04.24-15.47.45:041][688]LoadErrors: New page: Loading map: Map.umap
+[2023.04.24-15.47.45:043][688]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.47.45:043][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.47.45:043][688]MapCheck: New page: Map Check
+[2023.04.24-15.47.45:043][688]LightingResults: New page: Lighting Build
+[2023.04.24-15.47.45:067][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-15.47.45:080][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.04.24-15.47.45:081][688]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2023.04.24-15.47.46:722][688]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-15.47.46:722][688]LogAIModule: Creating AISystem for world Map
+[2023.04.24-15.47.46:782][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.24-15.47.46:790][688]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-15.47.46:790][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,229ms to complete.
+[2023.04.24-15.47.46:790][688]LogFileHelpers: Loading map 'Map' took 1.749
