@@ -902,3 +902,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-15.33.33:100][626]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2023.04.24-15.34.48:141][948]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.04.24-15.34.57:147][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.04.24-15.36.55:837][367]LogSlate: Took 0.001469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
