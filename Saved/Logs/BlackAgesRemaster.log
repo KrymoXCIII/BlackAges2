@@ -1405,3 +1405,412 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.24-15.47.46:790][688]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.04.24-15.47.46:790][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,229ms to complete.
 [2023.04.24-15.47.46:790][688]LogFileHelpers: Loading map 'Map' took 1.749
+[2023.04.24-15.54.44:939][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.24-15.54.44:968][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:969][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:969][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Doorframe': Can't find file.
+[2023.04.24-15.54.44:969][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Doorframe': Can't find file.
+[2023.04.24-15.54.44:969][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:970][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:970][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Stairs': Can't find file.
+[2023.04.24-15.54.44:970][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Stairs': Can't find file.
+[2023.04.24-15.54.44:970][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:970][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:970][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Window': Can't find file.
+[2023.04.24-15.54.44:971][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Window': Can't find file.
+[2023.04.24-15.54.44:971][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Windowframe': Can't find file.
+[2023.04.24-15.54.44:971][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Windowframe': Can't find file.
+[2023.04.24-15.54.44:971][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Bed': Can't find file.
+[2023.04.24-15.54.44:971][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Bed': Can't find file.
+[2023.04.24-15.54.44:971][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Campfire': Can't find file.
+[2023.04.24-15.54.44:972][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Campfire': Can't find file.
+[2023.04.24-15.54.44:972][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Windowframe': Can't find file.
+[2023.04.24-15.54.44:972][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Windowframe': Can't find file.
+[2023.04.24-15.54.44:972][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Polygonal/Props/T_Icon_Poly_Torch': Can't find file.
+[2023.04.24-15.54.44:972][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Polygonal/Props/T_Icon_Poly_Torch': Can't find file.
+[2023.04.24-15.54.44:973][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:973][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Doorframe': Can't find file.
+[2023.04.24-15.54.44:973][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:973][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Stairs': Can't find file.
+[2023.04.24-15.54.44:973][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:973][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Window': Can't find file.
+[2023.04.24-15.54.44:974][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Windowframe': Can't find file.
+[2023.04.24-15.54.44:974][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Bed': Can't find file.
+[2023.04.24-15.54.44:974][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Campfire': Can't find file.
+[2023.04.24-15.54.44:974][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Windowframe': Can't find file.
+[2023.04.24-15.54.44:974][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Polygonal/Props/T_Icon_Poly_Torch': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Doorframe': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Stairs': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Window': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Windowframe': Can't find file.
+[2023.04.24-15.54.44:975][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Bed': Can't find file.
+[2023.04.24-15.54.44:976][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Campfire': Can't find file.
+[2023.04.24-15.54.44:976][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Windowframe': Can't find file.
+[2023.04.24-15.54.44:976][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Polygonal/Props/T_Icon_Poly_Torch': Can't find file.
+[2023.04.24-15.54.44:976][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:976][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Doorframe': Can't find file.
+[2023.04.24-15.54.44:976][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:976][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Stairs': Can't find file.
+[2023.04.24-15.54.44:977][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:977][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Window': Can't find file.
+[2023.04.24-15.54.44:977][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Windowframe': Can't find file.
+[2023.04.24-15.54.44:977][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Bed': Can't find file.
+[2023.04.24-15.54.44:977][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Campfire': Can't find file.
+[2023.04.24-15.54.44:977][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Windowframe': Can't find file.
+[2023.04.24-15.54.44:977][265]LogLinker: Warning: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Polygonal/Props/T_Icon_Poly_Torch': Can't find file.
+[2023.04.24-15.54.44:984][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Windowframe': Can't find file.
+[2023.04.24-15.54.44:984][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Windowframe.T_Icon_Dummy_Windowframe Referenced by WaveSpawnPointBP2
+[2023.04.24-15.54.44:984][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Bed': Can't find file.
+[2023.04.24-15.54.44:984][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Bed.T_Icon_Dummy_Bed Referenced by WaveSpawnPointBP3
+[2023.04.24-15.54.44:984][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Polygonal/Props/T_Icon_Poly_Torch': Can't find file.
+[2023.04.24-15.54.44:984][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Textures/Icons/Polygonal/Props/T_Icon_Poly_Torch.T_Icon_Poly_Torch Referenced by WaveSpawnPointBP4
+[2023.04.24-15.54.44:984][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Campfire': Can't find file.
+[2023.04.24-15.54.44:984][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Textures/Icons/Dummy/T_Icon_Dummy_Campfire.T_Icon_Dummy_Campfire Referenced by WaveSpawnPointBP_2
+[2023.04.24-15.54.44:986][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:986][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling2
+[2023.04.24-15.54.44:986][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:986][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling3
+[2023.04.24-15.54.44:986][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:986][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling4
+[2023.04.24-15.54.44:986][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:986][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling5
+[2023.04.24-15.54.44:986][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:986][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling6
+[2023.04.24-15.54.44:986][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:986][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling7
+[2023.04.24-15.54.44:986][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:986][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling8
+[2023.04.24-15.54.44:987][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling': Can't find file.
+[2023.04.24-15.54.44:987][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Ceiling.SM_Stylized_Wood_Ceiling Referenced by SM_Stylized_Wood_Ceiling_2
+[2023.04.24-15.54.44:987][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Doorframe': Can't find file.
+[2023.04.24-15.54.44:987][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Doorframe.SM_Stylized_Wood_Doorframe Referenced by SM_Stylized_Wood_Doorframe_11
+[2023.04.24-15.54.44:987][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:987][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence.SM_Stylized_Wood_Fence Referenced by SM_Stylized_Wood_Fence2
+[2023.04.24-15.54.44:987][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:987][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence.SM_Stylized_Wood_Fence Referenced by SM_Stylized_Wood_Fence3
+[2023.04.24-15.54.44:987][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:987][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence.SM_Stylized_Wood_Fence Referenced by SM_Stylized_Wood_Fence4
+[2023.04.24-15.54.44:988][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:988][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence.SM_Stylized_Wood_Fence Referenced by SM_Stylized_Wood_Fence5
+[2023.04.24-15.54.44:988][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:988][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence.SM_Stylized_Wood_Fence Referenced by SM_Stylized_Wood_Fence6
+[2023.04.24-15.54.44:988][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:988][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence.SM_Stylized_Wood_Fence Referenced by SM_Stylized_Wood_Fence7
+[2023.04.24-15.54.44:988][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence': Can't find file.
+[2023.04.24-15.54.44:988][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Fence.SM_Stylized_Wood_Fence Referenced by SM_Stylized_Wood_Fence_45
+[2023.04.24-15.54.44:988][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Stairs': Can't find file.
+[2023.04.24-15.54.44:988][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Stairs.SM_Stylized_Wood_Stairs Referenced by SM_Stylized_Wood_Stairs_38
+[2023.04.24-15.54.44:989][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:989][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall.SM_Stylized_Wood_Wall Referenced by SM_Stylized_Wood_Wall2
+[2023.04.24-15.54.44:989][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:989][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall.SM_Stylized_Wood_Wall Referenced by SM_Stylized_Wood_Wall3
+[2023.04.24-15.54.44:989][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:989][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall.SM_Stylized_Wood_Wall Referenced by SM_Stylized_Wood_Wall4
+[2023.04.24-15.54.44:989][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:989][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall.SM_Stylized_Wood_Wall Referenced by SM_Stylized_Wood_Wall5
+[2023.04.24-15.54.44:989][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:989][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall.SM_Stylized_Wood_Wall Referenced by SM_Stylized_Wood_Wall6
+[2023.04.24-15.54.44:989][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall': Can't find file.
+[2023.04.24-15.54.44:990][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Wall.SM_Stylized_Wood_Wall Referenced by SM_Stylized_Wood_Wall_14
+[2023.04.24-15.54.44:990][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Window': Can't find file.
+[2023.04.24-15.54.44:990][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Window.SM_Stylized_Wood_Window Referenced by SM_Stylized_Wood_Window_23
+[2023.04.24-15.54.44:990][265]LogLinker: Warning: [AssetLog] C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Content\Levels\TestMap.umap: Failed to load '/Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Windowframe': Can't find file.
+[2023.04.24-15.54.44:990][265]LoadErrors: Failed to load /Game/EasyBuildingSystem/Meshes/Structures/Stylized/Wood/SM_Stylized_Wood_Windowframe.SM_Stylized_Wood_Windowframe Referenced by SM_Stylized_Wood_Windowframe_20
+[2023.04.24-15.54.44:999][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.44:999][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.44:999][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:001][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:001][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:001][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:001][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:001][265]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2023.04.24-15.54.45:001][265]Cmd: MAP LOAD FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.24-15.54.45:002][265]LightingResults: New page: Lighting Build
+[2023.04.24-15.54.45:002][265]LoadErrors: New page: Loading map: TestMap.umap
+[2023.04.24-15.54.45:061][265]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.54.45:061][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.54.45:061][265]MapCheck: New page: Map Check
+[2023.04.24-15.54.45:061][265]LightingResults: New page: Lighting Build
+[2023.04.24-15.54.45:079][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-15.54.45:114][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.04.24-15.54.45:117][265]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2023.04.24-15.54.45:118][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:118][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:118][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:121][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:121][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:121][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:121][265]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.54.45:176][265]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.24-15.54.45:176][265]LogAIModule: Creating AISystem for world TestMap
+[2023.04.24-15.54.45:183][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.04.24-15.54.45:190][265]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.24-15.54.45:190][265]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,139ms to complete.
+[2023.04.24-15.54.45:190][265]LogFileHelpers: Loading map 'TestMap' took 0.189
+[2023.04.24-15.54.57:854][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerSpike_Blueprint" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/TriggerSpike_Blueprint.uasset" SILENT=true
+[2023.04.24-15.54.57:874][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/TriggerSpike_Blueprint26C4368847103DC241353A9D6AD3CBCD.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/TriggerSpike_Blueprint.uasset'
+[2023.04.24-15.54.57:915][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Trap" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Trap.uasset" SILENT=true
+[2023.04.24-15.54.57:941][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/Trap6892FD204F4B8E59F9DE4F98977DF87F.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Trap.uasset'
+[2023.04.24-15.54.57:944][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/movingSpikes" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/movingSpikes.uasset" SILENT=true
+[2023.04.24-15.54.57:954][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/movingSpikes7A2FAE204BFA9C87602EA1A22CB253EE.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/movingSpikes.uasset'
+[2023.04.24-15.54.57:979][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Key1" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Key1.uasset" SILENT=true
+[2023.04.24-15.54.57:993][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/Key1BE8004A14C9DE318A860CE81CF267B3D.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Key1.uasset'
+[2023.04.24-15.54.58:016][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Door_Blueprint" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Door_Blueprint.uasset" SILENT=true
+[2023.04.24-15.54.58:029][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/Door_BlueprintE33D894841E33E61D53454B2F4CCB969.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Door_Blueprint.uasset'
+[2023.04.24-15.54.58:076][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cube64_Blueprint" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Cube64_Blueprint.uasset" SILENT=true
+[2023.04.24-15.54.58:092][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/Cube64_Blueprint688FDB2B4902E256FF1587B9AAE3FA00.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Cube64_Blueprint.uasset'
+[2023.04.24-15.54.58:096][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/DoorInterface7F31233D4F0E08AC8D7A88882DF98C62.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/Interfaces/DoorInterface.uasset'
+[2023.04.24-15.54.58:101][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Levels/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-15.54.59:520][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.24-15.55.00:318][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/MapDF0FA0604D28EA9CC0B637B43235B561.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Levels/Map.umap'
+[2023.04.24-15.55.01:146][647]LogFileHelpers: Saving map 'Map' took 3.048
+[2023.04.24-15.55.01:156][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/Finish_Blueprint5EF26A284362D150C415539507C02512.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/ACTORS/Finish_Blueprint.uasset'
+[2023.04.24-15.55.01:157][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultCharacter" FILE="../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/DefaultCharacter.uasset" SILENT=true
+[2023.04.24-15.55.01:159][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/DefaultCharacterB4A24A4744C1857C84FA5993E112B9D2.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/DefaultCharacter.uasset'
+[2023.04.24-15.55.01:169][647]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Saved/Finish_BlueprintBAFB9DAF4EC294FC352F57AB13EDEA58.tmp' to '../../../../../../Users/Karym/Documents/GitHub/BlackAgesRemaster/Content/Blueprints/ACTORS/Misc/Finish_Blueprint.uasset'
+[2023.04.24-15.55.01:228][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.24-15.55.01:437][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.24-15.55.01:442][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.24-15.55.01:447][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.24-15.55.01:454][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.24-15.55.01:459][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.24-15.55.01:464][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.04.24-15.55.01:471][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.24-15.55.01:486][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.04.24-15.55.01:492][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.24-15.55.01:499][647]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-15.55.01:499][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/movingSpikes.movingSpikes
+[2023.04.24-15.55.01:499][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Cube64_Blueprint.Cube64_Blueprint
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Door_Blueprint.Door_Blueprint
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ACTORS/Finish_Blueprint.Finish_Blueprint
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Key1.Key1
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Trap.Trap
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ACTORS/Misc/Finish_Blueprint.Finish_Blueprint
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating World /Game/Levels/Map.Map
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/DoorInterface.DoorInterface
+[2023.04.24-15.55.01:500][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TriggerSpike_Blueprint.TriggerSpike_Blueprint
+[2023.04.24-15.55.05:312][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.24-15.55.05:326][ 90]BlueprintLog: Warning: Blueprint failed to compile:  PlayerCharacter
+[2023.04.24-15.55.05:326][ 90]BlueprintLog: Warning: Blueprint failed to compile:  ZombieAnimBlueprint
+[2023.04.24-15.55.05:326][ 90]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.24-15.55.05:327][ 90]LogPlayLevel: [PlayLevel] Compiling movingSpikes before play...
+[2023.04.24-15.55.05:337][ 90]LogPlayLevel: [PlayLevel] Compiling Cube64_Blueprint before play...
+[2023.04.24-15.55.05:344][ 90]LogPlayLevel: [PlayLevel] Compiling Door_Blueprint before play...
+[2023.04.24-15.55.05:354][ 90]LogPlayLevel: [PlayLevel] Compiling Finish_Blueprint before play...
+[2023.04.24-15.55.05:361][ 90]LogPlayLevel: [PlayLevel] Compiling Key1 before play...
+[2023.04.24-15.55.05:370][ 90]LogPlayLevel: [PlayLevel] Compiling Trap before play...
+[2023.04.24-15.55.06:025][ 90]LogPlayLevel: [PlayLevel] Compiling TriggerSpike_Blueprint before play...
+[2023.04.24-15.55.06:028][ 90]LogPlayLevel: [PlayLevel] Compiling DoorInterface before play...
+[2023.04.24-15.55.06:029][ 90]LogPlayLevel: [PlayLevel] Compiling Finish_Blueprint before play...
+[2023.04.24-15.55.06:060][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.24-15.55.06:061][ 90]LogPlayLevel: PlayLevel: Blueprint regeneration took 735 ms (9 blueprints)
+[2023.04.24-15.55.06:063][ 90]LogCustomDialog: Dialog displayed:
+[2023.04.24-15.55.07:795][ 90]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.04.24-15.55.07:800][ 90]PIE: New page: PIE session: TestMap (24 avr. 2023 à 19:55:07)
+[2023.04.24-15.55.07:805][ 90]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.24-15.55.07:808][ 90]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.24-15.55.07:809][ 90]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.04.24-15.55.07:817][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007404s)
+[2023.04.24-15.55.07:818][ 90]LogAIModule: Creating AISystem for world TestMap
+[2023.04.24-15.55.07:818][ 90]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2023.04.24-15.55.07:818][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.009604s)
+[2023.04.24-15.55.07:826][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.24-15.55.07:826][ 90]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.24-15.55.07:827][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-15.55.07:827][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-15.55.07:827][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-15.55.07:827][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-15.55.07:827][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.24-15.55.07:838][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.24-15.55.07:838][ 90]LogAudioMixer: Display: 1: FrontRight
+[2023.04.24-15.55.07:886][ 90]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2023.04.24-15.55.07:886][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-15.55.07:886][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-15.55.07:886][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-15.55.07:887][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.24-15.55.07:887][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.24-15.55.07:887][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.24-15.55.07:887][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.24-15.55.07:887][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.24-15.55.07:887][ 90]LogInit: FAudioDevice initialized.
+[2023.04.24-15.55.07:887][ 90]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMap'.
+[2023.04.24-15.55.07:902][ 90]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.04.24-15.55.07:909][ 90]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.07:909][ 90]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.07:909][ 90]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.07:909][ 90]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.04.24-17.55.07
+[2023.04.24-15.55.07:917][ 90]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.07:919][ 90]LogWorld: Bringing up level for play took: 0.010820
+[2023.04.24-15.55.07:920][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.04.24-15.55.07:933][ 90]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.04.24-15.55.07:940][ 90]PIE: Server logged in
+[2023.04.24-15.55.07:941][ 90]PIE: Play in editor total start time 2,622 seconds.
+[2023.04.24-15.55.07:994][ 94]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:004][ 95]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:012][ 96]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:021][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:030][ 98]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:040][ 99]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:051][100]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:060][101]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:068][102]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:076][103]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:084][104]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:094][105]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:103][106]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:112][107]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:120][108]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:129][109]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:138][110]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:147][111]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:156][112]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:164][113]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:172][114]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:181][115]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:190][116]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:199][117]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:207][118]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:216][119]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:225][120]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:233][121]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:241][122]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:249][123]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:258][124]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:266][125]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:274][126]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:283][127]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:291][128]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:300][129]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:308][130]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:316][131]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:324][132]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:333][133]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:341][134]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:356][135]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:359][136]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:367][137]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:376][138]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:384][139]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:392][140]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:401][141]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:409][142]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:417][143]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:426][144]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:434][145]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:442][146]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:450][147]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:459][148]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:467][149]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:476][150]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:484][151]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:492][152]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:501][153]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:509][154]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:517][155]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:526][156]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:534][157]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:542][158]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:551][159]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:559][160]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:568][161]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:568][161]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.04.24-15.55.08:576][162]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:584][163]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:593][164]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:601][165]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:610][166]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:618][167]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:626][168]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:634][169]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:643][170]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:651][171]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:659][172]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:668][173]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:676][174]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:684][175]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:692][176]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:701][177]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:709][178]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:717][179]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:726][180]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:734][181]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:742][182]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:751][183]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:759][184]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:767][185]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:776][186]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:784][187]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:792][188]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:801][189]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:809][190]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:818][191]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:826][192]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:834][193]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:842][194]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:851][195]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:859][196]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:867][197]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:876][198]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:884][199]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:892][200]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:901][201]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:910][202]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:917][203]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:926][204]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:935][205]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:942][206]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:951][207]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:959][208]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:967][209]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:976][210]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:984][211]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.08:992][212]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:000][213]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:010][214]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:018][215]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:026][216]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:034][217]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:042][218]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:050][219]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:059][220]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:067][221]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:076][222]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:084][223]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:092][224]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:101][225]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:109][226]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:117][227]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:126][228]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:134][229]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:142][230]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:150][231]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:159][232]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:167][233]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:176][234]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:184][235]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:192][236]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:200][237]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:209][238]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:217][239]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:226][240]LogSkinnedMeshComp: Warning: GetSocketByName(AxeHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(ZombieCharacter2)
+[2023.04.24-15.55.09:264][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-15.55.09:264][240]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.04.24-15.55.09:266][240]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.55.09:266][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.55.09:278][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-15.55.09:280][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.55.09:285][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-15.55.09:287][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-15.55.09:289][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.24-15.55.09:306][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.24-15.55.09:339][242]LogPlayLevel: Display: Destroying online subsystem :Context_6
