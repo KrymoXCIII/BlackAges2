@@ -2424,3 +2424,246 @@ Make sure 'UI_EBS_BuildingMenuSegment_C' has been compiled for  Set BuildingObje
 [2023.07.17-04.12.54:533][588]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CHARACTERS/PlayerCharacter.PlayerCharacter
 [2023.07.17-04.12.55:206][634]BlueprintLog: New page: Compile PlayerCharacter
 [2023.07.17-04.12.55:381][634]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2023.07.17-04.13.37:997][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.13.38:023][598]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun18D6DBDA4EA1FC637B78FA8B4CB4F0DB.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.13.38:048][598]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.13.38:048][598]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.14.09:199][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.14.09:228][227]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun8ABFD20247B05DBA754627875BF0F27B.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.14.09:255][227]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.14.09:255][227]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.15.57:917][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.15.57:927][200]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile5BEFA9934B0858EF4AA31AA6570B7561.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.15.57:952][200]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.15.57:952][200]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.16.04:740][559]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorLocation) bSelfContext == true, but no scope supplied!
+[2023.07.17-04.16.12:695][970]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.16.12:799][970]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2023.07.17-04.16.22:673][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.16.22:684][464]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileEEFB37324BBFDF49A2E7A9B21F2DEE86.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.16.22:707][464]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.16.22:707][464]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.18.05:917][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.18.05:928][740]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile24E15BAF45EB8700AFD6DDBFC65EF034.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.18.05:957][740]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.18.05:957][740]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.18.07:291][809]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.18.07:383][809]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2023.07.17-04.18.15:150][184]LogSlate: Window 'BP_Projectile' being destroyed
+[2023.07.17-04.18.17:069][297]LogSlate: Window 'BP_Gun' being destroyed
+[2023.07.17-04.18.19:183][455]LogSlate: Window 'BP_Projectile' being destroyed
+[2023.07.17-04.18.30:767][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ACTORS/AxeBlueprint.AxeBlueprint
+[2023.07.17-04.19.34:728][282]LogSlate: Took 0.001217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.07.17-04.20.35:200][984]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/EasyBuildingSystem/Blueprints/BuildingObjects/Base/BP_EBS_DestructibleObject.BP_EBS_DestructibleObject is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2023.07.17-04.20.35:228][984]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.17-04.21.40:820][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.21.40:836][986]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile0148DF804D329291BCB950A335A71DD2.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.21.40:865][986]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.21.40:865][986]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.21.43:851][327]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.21.43:961][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2023.07.17-04.21.50:607][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.21.50:624][ 77]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileCDB67FA64ED09992B88A24941E18881A.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.21.50:651][ 77]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.21.50:651][ 77]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.22.08:566][144]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.22.08:662][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2023.07.17-04.22.48:152][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.22.48:168][ 64]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile1C53DC6E40CECA74769900A640038802.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.22.48:196][ 64]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.22.48:196][ 64]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.22.49:378][186]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.22.49:476][186]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2023.07.17-04.22.50:437][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.22.50:454][277]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile7106875F4F5090A68585A5A197F7402A.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.22.50:481][277]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.22.50:481][277]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.24.32:027][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.24.32:044][605]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileC9D243B848E902E96A82F09F5518EE46.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.24.32:072][605]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.24.32:072][605]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.24.33:669][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.24.33:683][767]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile427433EE4638F657F788BA85191DB85D.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.24.33:713][767]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.24.33:713][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.25.35:375][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.25.35:412][821]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun3557DC6748C1C3D424934FB155996142.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.25.35:451][821]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.25.35:451][821]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.25.38:326][ 99]BlueprintLog: New page: Compile BP_Gun
+[2023.07.17-04.25.38:378][ 99]LogBlueprint: Error: [AssetLog] C:\Users\HP\Desktop\BlackAges\BlackAges2\Content\Blueprints\BP_Gun.uasset: [Compiler] The property associated with  Damage  could not be found in '/Game/Blueprints/BP_Gun.BP_Gun_C'
+[2023.07.17-04.25.38:480][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.07.17-04.25.42:532][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.25.42:560][488]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_GunF647EFE84A41B1A4C89253B78FE75808.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.25.42:590][488]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.25.42:590][488]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.25.43:862][610]BlueprintLog: New page: Compile BP_Gun
+[2023.07.17-04.25.43:874][610]LogBlueprint: Error: [AssetLog] C:\Users\HP\Desktop\BlackAges\BlackAges2\Content\Blueprints\BP_Gun.uasset: [Compiler] The property associated with  Damage  could not be found in '/Game/Blueprints/BP_Gun.BP_Gun_C'
+[2023.07.17-04.25.43:968][610]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.07.17-04.26.00:577][131]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.26.00:687][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2023.07.17-04.26.03:017][338]BlueprintLog: New page: Compile BP_Gun
+[2023.07.17-04.26.03:157][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2023.07.17-04.26.04:373][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.26.04:401][437]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun08FFEA8642819E8B311F8895E2636D13.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.26.04:428][437]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.26.04:428][437]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.26.05:609][542]BlueprintLog: New page: Compile BP_Gun
+[2023.07.17-04.26.05:719][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2023.07.17-04.27.25:388][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.27.25:408][ 33]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile48596120488D1233CEA4078C3A1A7D32.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.27.25:436][ 33]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.27.25:436][ 33]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.27.26:520][139]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.27.26:626][139]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2023.07.17-04.27.41:887][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.27.41:909][622]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile66FC697F48A1E9A041B068AA77E5DD8F.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.27.41:934][622]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.27.41:934][622]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.27.48:451][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.27.48:471][291]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile82222ECF449CF51C6D0D9EB048989625.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.27.48:499][291]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.27.48:499][291]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.28.01:478][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.17-04.28.01:498][678]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileF1AE36F14DDA80092DBE88BBFB02F275.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.17-04.28.01:527][678]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.17-04.28.01:527][678]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.17-04.28.02:953][817]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.17-04.28.03:055][817]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2023.07.17-04.28.59:411][332]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2023.07.17-04.28.59:413][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.066
+[2023.07.17-04.28.59:415][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Gun] ([2] browsable assets)...
+[2023.07.17-04.28.59:477][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Gun.BP_Gun]
+[2023.07.17-04.28.59:477][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Gun]
+[2023.07.17-04.28.59:477][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/Autosaves/Game/Blueprints/BP_Gun_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.07.17-04.28.59:509][332]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun_Auto183C7397D47AAEB68379213A492AF1E09.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/Autosaves/Game/Blueprints/BP_Gun_Auto1.uasset'
+[2023.07.17-04.28.59:511][332]LogFileHelpers: Auto-saving content packages took 0.098
+[2023.07.17-04.29.11:589][368]BlueprintLog: New page: Compile BP_Gun
+[2023.07.17-04.29.11:696][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.07.17-04.29.32:224][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.29.32:255][208]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun1C345BA542FA04994F6A338704D68469.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.29.32:281][208]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.29.32:281][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.29.37:847][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.29.37:875][721]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun5163787640B7C1F0258224A9AA837C0E.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.29.37:898][721]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.29.37:898][721]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.29.38:700][790]BlueprintLog: New page: Compile BP_Gun
+[2023.07.17-04.29.38:812][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.07.17-04.29.58:282][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.29.58:311][653]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_GunB626191845B67E1B2BCF9192394F1DFE.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.29.58:335][653]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.29.58:335][653]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.29.59:668][745]BlueprintLog: New page: Compile BP_Gun
+[2023.07.17-04.29.59:818][745]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2023.07.17-04.30.01:852][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.17-04.30.01:886][877]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_GunF7EFFFCA4819EB9D14A79681071A0A1D.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.17-04.30.01:916][877]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.17-04.30.01:916][877]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.17-04.30.34:118][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2023.07.17-04.30.34:420][951]LogBlueprint: Error: [AssetLog] C:\Users\HP\Desktop\BlackAges\BlackAges2\Content\UI\WDG_InventoryMenuContent.uasset: [Compiler] In use pin  Item Details  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2023.07.17-04.30.34:420][951]LogBlueprint: Error: [AssetLog] C:\Users\HP\Desktop\BlackAges\BlackAges2\Content\UI\WDG_InventoryMenuContent.uasset: [Compiler] In use pin  Quantity  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2023.07.17-04.30.34:421][951]LogBlueprint: Error: [AssetLog] C:\Users\HP\Desktop\BlackAges\BlackAges2\Content\UI\WDG_InventoryMenuContent.uasset: [Compiler] The type of  Variable  is undetermined.  Connect something to  Create Widget  to imply a specific type.
+[2023.07.17-04.30.34:421][951]LogBlueprint: Error: [AssetLog] C:\Users\HP\Desktop\BlackAges\BlackAges2\Content\UI\WDG_InventoryMenuContent.uasset: [Compiler] The type of  Value  is undetermined.  Connect something to  Create Widget  to imply a specific type.
+[2023.07.17-04.30.34:670][951]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2023.07.17-04.30.34:671][951]Cmd: MAP LOAD FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.17-04.30.34:671][951]LightingResults: New page: Lighting Build
+[2023.07.17-04.30.34:672][951]LoadErrors: New page: Loading map: TestMap.umap
+[2023.07.17-04.30.34:674][951]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-04.30.34:675][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-04.30.34:676][951]MapCheck: New page: Map Check
+[2023.07.17-04.30.34:676][951]LightingResults: New page: Lighting Build
+[2023.07.17-04.30.34:722][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.17-04.30.34:740][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2023.07.17-04.30.34:742][951]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2023.07.17-04.30.34:762][951]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.17-04.30.34:762][951]LogAIModule: Creating AISystem for world TestMap
+[2023.07.17-04.30.34:827][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.07.17-04.30.34:849][951]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.17-04.30.34:849][951]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,192ms to complete.
+[2023.07.17-04.30.34:849][951]LogFileHelpers: Loading map 'TestMap' took 0.178
+[2023.07.17-04.30.37:796][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.17-04.30.37:815][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_BaseObject
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_DoorLock
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Door
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_BuildingComponent
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Bed
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Campfire
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Torch
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_HUD
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_BuildingMenuSegment
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_BuildingMenu
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_MalletMenu
+[2023.07.17-04.30.37:815][ 85]BlueprintLog: Warning: Blueprint failed to compile:  WDG_InventoryMenuContent
+[2023.07.17-04.30.37:817][ 85]LogCustomDialog: Dialog displayed:
+[2023.07.17-04.30.39:253][ 85]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.07.17-04.30.39:259][ 85]PIE: New page: PIE session: TestMap (17 juil. 2023 à 08:30:39)
+[2023.07.17-04.30.39:268][ 85]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.07.17-04.30.39:273][ 85]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.17-04.30.39:274][ 85]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.17-04.30.39:288][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014407s)
+[2023.07.17-04.30.39:291][ 85]LogAIModule: Creating AISystem for world TestMap
+[2023.07.17-04.30.39:292][ 85]LogPlayLevel: PIE: World Init took: (0.003057s)
+[2023.07.17-04.30.39:292][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.018132s)
+[2023.07.17-04.30.39:357][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.07.17-04.30.39:360][ 85]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.17-04.30.39:360][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.17-04.30.39:360][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.17-04.30.39:360][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.17-04.30.39:360][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.17-04.30.39:360][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.17-04.30.39:361][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.17-04.30.39:361][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.17-04.30.39:361][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.17-04.30.39:361][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.17-04.30.39:361][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.17-04.30.39:361][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.17-04.30.39:361][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.17-04.30.39:368][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.17-04.30.39:368][ 85]LogAudioMixer: Display: 1: FrontRight
+[2023.07.17-04.30.39:407][ 85]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.17-04.30.39:407][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.17-04.30.39:407][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.17-04.30.39:407][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.17-04.30.39:408][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.17-04.30.39:408][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.17-04.30.39:408][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.17-04.30.39:410][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.17-04.30.39:410][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.17-04.30.39:410][ 85]LogInit: FAudioDevice initialized.
+[2023.07.17-04.30.39:410][ 85]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMap'.
+[2023.07.17-04.30.39:425][ 85]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.17-04.30.39:428][ 85]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.17-06.30.39
+[2023.07.17-04.30.39:430][ 85]LogWorld: Bringing up level for play took: 0.004574
+[2023.07.17-04.30.39:432][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.07.17-04.30.39:462][ 85]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.07.17-04.30.39:483][ 85]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.17-04.30.39:487][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.17-04.30.39:487][ 85]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/CHARACTERS/PlayerCharacter.PlayerCharacter_C:ExecuteUbergraph_PlayerCharacter'!
+[2023.07.17-04.30.39:488][ 85]PIE: Server logged in
+[2023.07.17-04.30.39:489][ 85]PIE: Play in editor total start time 1,679 seconds.
+[2023.07.17-04.30.40:404][ 91]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.17-04.30.41:384][122]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.17-04.30.42:363][154]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.17-04.30.42:363][154]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.17-04.30.59:116][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-04.30.59:116][653]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.17-04.30.59:123][653]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-04.30.59:125][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-04.30.59:142][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.17-04.30.59:155][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-04.30.59:223][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.17-04.30.59:225][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.17-04.30.59:226][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.17-04.30.59:231][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-04.30.59:282][653]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2023.07.17-04.30.59:312][654]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.07.17-04.31.06:808][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.17-04.31.06:875][909]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.07.17-04.31.06:909][909]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap75996F264DBD3AF95D7E9BAB1B393C3A.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.17-04.31.06:936][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.17-04.31.07:202][909]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltData63621DEB46D7D562D7D0FA9F23F7E172.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.17-04.31.07:226][909]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.17-04.31.07:226][909]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.17-04.31.07:226][909]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
