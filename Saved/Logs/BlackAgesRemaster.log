@@ -5221,3 +5221,851 @@ Script call stack:
 [2023.07.21-15.37.39:684][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.07.21-15.37.39:693][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
 [2023.07.21-15.37.39:743][423]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.07.21-15.41.33:258][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-15.41.38:018][887]LogSlate: Window 'BP_Projectile' being destroyed
+[2023.07.21-15.42.35:706][863]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-15.42.41:647][ 36]LogEditorTransaction: Undo Add Component
+[2023.07.21-15.42.43:411][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-15.42.43:439][ 77]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileCD80A64C40F9E2F9BF228596F44E1EF9.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-15.42.43:462][ 77]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-15.42.43:462][ 77]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-15.42.48:708][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-15.42.48:728][229]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile2F8736654865A6EAA3FB6F8A55F51D4F.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-15.42.48:754][229]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-15.42.48:754][229]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-15.42.53:208][351]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.21-15.42.53:368][351]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2023.07.21-15.42.55:317][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.07.21-15.42.56:134][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-15.42.56:251][407]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2023.07.21-15.42.56:286][407]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap2021099A4D959BF2F5A4C2888EF02A34.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-15.42.56:321][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-15.42.56:639][407]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltDataE22990754F06B8442D761FB80625312E.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-15.42.56:675][407]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-15.42.56:675][407]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-15.42.56:675][407]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-15.42.58:706][449]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.21-15.42.58:733][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.21-15.42.58:734][449]PIE: New page: PIE session: TestMap (21 juil. 2023 à 19:42:58)
+[2023.07.21-15.42.58:734][449]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-15.42.58:754][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019673s)
+[2023.07.21-15.42.58:756][449]LogAIModule: Creating AISystem for world TestMap
+[2023.07.21-15.42.58:756][449]LogPlayLevel: PIE: World Init took: (0.002678s)
+[2023.07.21-15.42.58:756][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.022631s)
+[2023.07.21-15.42.58:830][449]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.07.21-15.42.58:833][449]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.07.21-15.42.58:833][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-15.42.58:833][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-15.42.58:833][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-15.42.58:833][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-15.42.58:833][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.21-15.42.58:833][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.21-15.42.58:833][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.21-15.42.58:833][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-15.42.58:833][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.21-15.42.58:834][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.21-15.42.58:834][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-15.42.58:834][449]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.21-15.42.58:838][449]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.21-15.42.58:838][449]LogAudioMixer: Display: 1: FrontRight
+[2023.07.21-15.42.58:871][449]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.21-15.42.58:871][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-15.42.58:871][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-15.42.58:871][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-15.42.58:872][449]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.21-15.42.58:872][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.21-15.42.58:872][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.21-15.42.58:874][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.21-15.42.58:874][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.21-15.42.58:874][449]LogInit: FAudioDevice initialized.
+[2023.07.21-15.42.58:874][449]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestMap'.
+[2023.07.21-15.42.58:885][449]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.21-15.42.58:892][449]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.21-17.42.58
+[2023.07.21-15.42.58:893][449]LogWorld: Bringing up level for play took: 0.006377
+[2023.07.21-15.42.58:893][449]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.07.21-15.42.58:917][449]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.21-15.42.58:918][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.21-15.42.58:919][449]PIE: Server logged in
+[2023.07.21-15.42.58:920][449]PIE: Play in editor total start time 0,188 seconds.
+[2023.07.21-15.42.59:663][463]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-15.43.00:688][484]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-15.43.01:701][505]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-15.43.02:660][526]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-15.43.03:674][549]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-15.43.04:688][572]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-15.43.05:683][595]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-15.43.06:669][618]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-15.43.06:759][620]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:761][620]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:764][620]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:768][620]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:772][620]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:976][625]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:979][625]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:983][625]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:987][625]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.06:990][625]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.07:188][630]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.07:190][630]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.07:191][630]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.07:194][630]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.07:199][630]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.07:665][641]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-15.43.08:618][663]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:619][663]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:622][663]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:626][663]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:630][663]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:674][664]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-15.43.08:835][668]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:836][668]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:839][668]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:842][668]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.08:846][668]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:021][672]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:023][672]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:027][672]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:029][672]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:030][672]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:235][677]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:238][677]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:241][677]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:244][677]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:248][677]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:466][682]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:469][682]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:472][682]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:474][682]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:475][682]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.09:689][687]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-15.43.09:689][687]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-15.43.10:989][715]LogBlueprintUserMessages: [BP_Projectile_C_3] 80.0
+[2023.07.21-15.43.11:083][717]LogBlueprintUserMessages: [BP_Projectile_C_4] 80.0
+[2023.07.21-15.43.12:781][752]LogBlueprintUserMessages: [BP_Projectile_C_29] 60.0
+[2023.07.21-15.43.12:881][754]LogBlueprintUserMessages: [BP_Projectile_C_25] 40.0
+[2023.07.21-15.43.12:882][754]LogBlueprintUserMessages: [BP_Projectile_C_29] 20.0
+[2023.07.21-15.43.16:099][820]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:101][820]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:103][820]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:105][820]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:110][820]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:348][825]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:350][825]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:353][825]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:358][825]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:360][825]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:550][829]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:553][829]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:557][829]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:559][829]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:562][829]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:748][833]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:750][833]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:753][833]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:756][833]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:760][833]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:944][837]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:946][837]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:950][837]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:954][837]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.16:959][837]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:683][893]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:685][893]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:687][893]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:689][893]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:693][893]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:935][898]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:937][898]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:941][898]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:945][898]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.19:949][898]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:095][901]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:098][901]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:099][901]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:102][901]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:104][901]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:292][905]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:294][905]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:295][905]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:297][905]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:299][905]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:522][910]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:525][910]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:528][910]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:532][910]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:536][910]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:725][914]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:729][914]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:732][914]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:734][914]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:736][914]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:927][918]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:929][918]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:933][918]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:936][918]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.20:939][918]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:124][922]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:126][922]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:132][922]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:135][922]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:138][922]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:325][926]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:328][926]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:331][926]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:334][926]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:338][926]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:492][929]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:495][929]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:499][929]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:504][929]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:506][929]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:704][933]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:706][933]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:708][933]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:710][933]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:715][933]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:926][937]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:929][937]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:931][937]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:933][937]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.21:938][937]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:120][941]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:122][941]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:126][941]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:131][941]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:134][941]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:331][945]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:333][945]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:335][945]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:340][945]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:343][945]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:529][949]LogBlueprintUserMessages: [BP_Projectile_C_69] 0.0
+[2023.07.21-15.43.22:533][949]LogBlueprintUserMessages: [ZombieCharacter_C_2] ZOMBIE IS DEAD
+[2023.07.21-15.43.22:543][949]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:548][949]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:550][949]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:553][949]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:555][949]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:694][952]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:699][952]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:705][952]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:707][952]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:711][952]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:799][954]LogBlueprintUserMessages: [BP_Projectile_C_88] 80.0
+[2023.07.21-15.43.22:892][956]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:895][956]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:901][956]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:906][956]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.22:910][956]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:111][960]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:118][960]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:122][960]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:125][960]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:128][960]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:330][964]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:333][964]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:337][964]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:341][964]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:344][964]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:374][965]LogBlueprintUserMessages: [BP_Projectile_C_99] 60.0
+[2023.07.21-15.43.23:535][968]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:538][968]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:541][968]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:544][968]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:546][968]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:689][971]LogBlueprintUserMessages: [BP_Projectile_C_100] 40.0
+[2023.07.21-15.43.23:695][971]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:701][971]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:703][971]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:706][971]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:708][971]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:747][972]LogBlueprintUserMessages: [BP_Projectile_C_100] 20.0
+[2023.07.21-15.43.23:889][975]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:892][975]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:895][975]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:897][975]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.23:899][975]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.24:092][979]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.24:097][979]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.24:101][979]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.24:104][979]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.24:108][979]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.24:702][991]LogBlueprintUserMessages: [BP_Projectile_C_118] -20.0
+[2023.07.21-15.43.30:093][100]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:096][100]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:099][100]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:104][100]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:106][100]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:312][104]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:314][104]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:315][104]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:318][104]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:320][104]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:515][108]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:517][108]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:520][108]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:522][108]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:526][108]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:727][112]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:732][112]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:736][112]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:738][112]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:741][112]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:937][116]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:939][116]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:941][116]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:944][116]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.30:948][116]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:148][120]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:149][120]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:152][120]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:155][120]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:159][120]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:307][123]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:311][123]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:312][123]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:314][123]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:316][123]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:511][127]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:513][127]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:515][127]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:519][127]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:525][127]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:712][131]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:715][131]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:718][131]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:722][131]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.31:726][131]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.32:294][143]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.32:296][143]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.32:300][143]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.32:302][143]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.32:306][143]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.32:902][155]LogBlueprintUserMessages: [BP_Projectile_C_186] 60.0
+[2023.07.21-15.43.33:243][162]LogBlueprintUserMessages: [BP_Projectile_C_195] 40.0
+[2023.07.21-15.43.38:655][274]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:658][274]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:660][274]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:668][274]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:672][274]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:895][279]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:899][279]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:904][279]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:907][279]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.38:911][279]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:574][293]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:576][293]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:579][293]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:585][293]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:588][293]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:637][294]LogBlueprintUserMessages: [BP_Projectile_C_243] 0.0
+[2023.07.21-15.43.39:638][294]LogBlueprintUserMessages: [BP_Projectile_C_240] -20.0
+[2023.07.21-15.43.39:638][294]LogBlueprintUserMessages: [BP_Projectile_C_242] -40.0
+[2023.07.21-15.43.39:639][294]LogBlueprintUserMessages: [BP_Projectile_C_241] -60.0
+[2023.07.21-15.43.39:639][294]LogBlueprintUserMessages: [BP_Projectile_C_244] -80.0
+[2023.07.21-15.43.39:642][294]LogBlueprintUserMessages: [ZombieCharacter_C_1] ZOMBIE IS DEAD
+[2023.07.21-15.43.39:802][297]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:805][297]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:807][297]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:809][297]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.39:815][297]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.40:012][301]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.40:015][301]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.40:017][301]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.40:021][301]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.40:026][301]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:242][545]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:247][545]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:250][545]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:253][545]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:255][545]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:476][550]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:478][550]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:480][550]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:482][550]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:486][550]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:661][554]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-15.43.51:665][554]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:667][554]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:670][554]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:675][554]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.51:678][554]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:029][605]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:031][605]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:034][605]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:039][605]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:043][605]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:262][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:263][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:265][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:269][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:274][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:553][613]LogBlueprintUserMessages: [BP_Projectile_C_273] 20.0
+[2023.07.21-15.43.54:553][613]LogBlueprintUserMessages: [BP_Projectile_C_272] 0.0
+[2023.07.21-15.43.54:553][613]LogBlueprintUserMessages: [BP_Projectile_C_274] -20.0
+[2023.07.21-15.43.54:556][613]LogBlueprintUserMessages: [ZombieCharacter_C_0] ZOMBIE IS DEAD
+[2023.07.21-15.43.54:556][613]LogBlueprintUserMessages: [BP_Projectile_C_278] -40.0
+[2023.07.21-15.43.54:557][613]LogBlueprintUserMessages: [BP_Projectile_C_275] -60.0
+[2023.07.21-15.43.54:557][613]LogBlueprintUserMessages: [BP_Projectile_C_277] -80.0
+[2023.07.21-15.43.54:563][613]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:565][613]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:566][613]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:572][613]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:577][613]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:640][614]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:641][614]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:644][614]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:645][614]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:647][614]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:723][616]LogBlueprintUserMessages: [WaveManagerBP_2] WAVE FINISHED !
+[2023.07.21-15.43.54:806][618]LogBlueprintUserMessages: [BP_Projectile_C_288] -100.0
+[2023.07.21-15.43.54:806][618]LogBlueprintUserMessages: [BP_Projectile_C_285] -120.0
+[2023.07.21-15.43.54:807][618]LogBlueprintUserMessages: [BP_Projectile_C_287] -140.0
+[2023.07.21-15.43.54:857][619]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:860][619]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:864][619]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:868][619]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:870][619]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.43.54:914][620]LogBlueprintUserMessages: [BP_Projectile_C_294] -160.0
+[2023.07.21-15.43.54:949][621]LogBlueprintUserMessages: [BP_Projectile_C_293] -180.0
+[2023.07.21-15.43.54:949][621]LogBlueprintUserMessages: [BP_Projectile_C_290] -200.0
+[2023.07.21-15.43.54:950][621]LogBlueprintUserMessages: [BP_Projectile_C_291] -220.0
+[2023.07.21-15.43.54:950][621]LogBlueprintUserMessages: [BP_Projectile_C_292] -240.0
+[2023.07.21-15.43.54:997][622]LogBlueprintUserMessages: [BP_Projectile_C_294] -260.0
+[2023.07.21-15.43.55:010][622]LogBlueprintUserMessages: [BP_Projectile_C_294] -280.0
+[2023.07.21-15.43.55:754][638]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-15.43.56:742][659]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-15.43.57:729][680]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-15.43.58:736][702]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-15.43.59:736][723]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-15.44.00:747][745]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-15.44.01:736][767]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-15.44.02:739][789]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-15.44.03:751][811]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-15.44.04:748][833]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-15.44.05:733][855]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-15.44.05:733][855]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-15.44.39:002][586]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:003][586]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:004][586]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:006][586]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:011][586]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:018][586]LogBlueprintUserMessages: [BP_Projectile_C_295] 80.0
+[2023.07.21-15.44.39:018][586]LogBlueprintUserMessages: [BP_Projectile_C_299] 60.0
+[2023.07.21-15.44.39:018][586]LogBlueprintUserMessages: [BP_Projectile_C_296] 40.0
+[2023.07.21-15.44.39:018][586]LogBlueprintUserMessages: [BP_Projectile_C_297] 20.0
+[2023.07.21-15.44.39:018][586]LogBlueprintUserMessages: [BP_Projectile_C_298] 0.0
+[2023.07.21-15.44.39:056][587]LogBlueprintUserMessages: [BP_Projectile_C_295] 80.0
+[2023.07.21-15.44.39:056][587]LogBlueprintUserMessages: [BP_Projectile_C_296] 60.0
+[2023.07.21-15.44.39:056][587]LogBlueprintUserMessages: [BP_Projectile_C_297] 40.0
+[2023.07.21-15.44.39:056][587]LogBlueprintUserMessages: [BP_Projectile_C_298] 20.0
+[2023.07.21-15.44.39:056][587]LogBlueprintUserMessages: [BP_Projectile_C_299] 0.0
+[2023.07.21-15.44.39:057][587]LogBlueprintUserMessages: [ZombieCharacter_C_8] ZOMBIE IS DEAD
+[2023.07.21-15.44.39:060][587]LogBlueprintUserMessages: [ZombieCharacter_C_4] ZOMBIE IS DEAD
+[2023.07.21-15.44.39:108][588]LogBlueprintUserMessages: [BP_Projectile_C_295] 80.0
+[2023.07.21-15.44.39:108][588]LogBlueprintUserMessages: [BP_Projectile_C_296] 60.0
+[2023.07.21-15.44.39:108][588]LogBlueprintUserMessages: [BP_Projectile_C_297] 40.0
+[2023.07.21-15.44.39:108][588]LogBlueprintUserMessages: [BP_Projectile_C_298] 20.0
+[2023.07.21-15.44.39:109][588]LogBlueprintUserMessages: [BP_Projectile_C_299] 0.0
+[2023.07.21-15.44.39:111][588]LogBlueprintUserMessages: [ZombieCharacter_C_6] ZOMBIE IS DEAD
+[2023.07.21-15.44.39:154][589]LogBlueprintUserMessages: [BP_Projectile_C_295] 80.0
+[2023.07.21-15.44.39:206][590]LogBlueprintUserMessages: [BP_Projectile_C_295] 60.0
+[2023.07.21-15.44.39:206][590]LogBlueprintUserMessages: [BP_Projectile_C_297] 40.0
+[2023.07.21-15.44.39:207][590]LogBlueprintUserMessages: [BP_Projectile_C_299] 20.0
+[2023.07.21-15.44.39:220][590]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:222][590]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:223][590]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:227][590]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:230][590]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:233][590]LogBlueprintUserMessages: [BP_Projectile_C_300] -20.0
+[2023.07.21-15.44.39:233][590]LogBlueprintUserMessages: [BP_Projectile_C_301] -40.0
+[2023.07.21-15.44.39:233][590]LogBlueprintUserMessages: [BP_Projectile_C_302] -60.0
+[2023.07.21-15.44.39:234][590]LogBlueprintUserMessages: [BP_Projectile_C_303] -80.0
+[2023.07.21-15.44.39:234][590]LogBlueprintUserMessages: [BP_Projectile_C_304] -100.0
+[2023.07.21-15.44.39:264][591]LogBlueprintUserMessages: [BP_Projectile_C_303] -20.0
+[2023.07.21-15.44.39:265][591]LogBlueprintUserMessages: [BP_Projectile_C_300] -40.0
+[2023.07.21-15.44.39:265][591]LogBlueprintUserMessages: [BP_Projectile_C_302] -60.0
+[2023.07.21-15.44.39:265][591]LogBlueprintUserMessages: [BP_Projectile_C_301] -80.0
+[2023.07.21-15.44.39:266][591]LogBlueprintUserMessages: [BP_Projectile_C_304] -100.0
+[2023.07.21-15.44.39:309][592]LogBlueprintUserMessages: [BP_Projectile_C_303] 0.0
+[2023.07.21-15.44.39:309][592]LogBlueprintUserMessages: [BP_Projectile_C_302] -20.0
+[2023.07.21-15.44.39:309][592]LogBlueprintUserMessages: [BP_Projectile_C_300] -40.0
+[2023.07.21-15.44.39:310][592]LogBlueprintUserMessages: [BP_Projectile_C_301] -60.0
+[2023.07.21-15.44.39:310][592]LogBlueprintUserMessages: [ZombieCharacter_C_5] ZOMBIE IS DEAD
+[2023.07.21-15.44.39:311][592]LogBlueprintUserMessages: [BP_Projectile_C_304] -80.0
+[2023.07.21-15.44.39:459][595]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:464][595]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:467][595]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:469][595]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:474][595]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.39:484][595]LogBlueprintUserMessages: [BP_Projectile_C_305] -120.0
+[2023.07.21-15.44.39:485][595]LogBlueprintUserMessages: [BP_Projectile_C_306] -140.0
+[2023.07.21-15.44.39:485][595]LogBlueprintUserMessages: [BP_Projectile_C_307] -160.0
+[2023.07.21-15.44.39:485][595]LogBlueprintUserMessages: [BP_Projectile_C_308] -180.0
+[2023.07.21-15.44.39:485][595]LogBlueprintUserMessages: [BP_Projectile_C_309] -200.0
+[2023.07.21-15.44.39:609][598]LogBlueprintUserMessages: [BP_Projectile_C_299] 80.0
+[2023.07.21-15.44.39:760][601]LogBlueprintUserMessages: [BP_Projectile_C_304] 60.0
+[2023.07.21-15.44.39:862][603]LogBlueprintUserMessages: [BP_Projectile_C_305] 40.0
+[2023.07.21-15.44.39:863][603]LogBlueprintUserMessages: [BP_Projectile_C_306] 20.0
+[2023.07.21-15.44.39:863][603]LogBlueprintUserMessages: [BP_Projectile_C_309] 0.0
+[2023.07.21-15.44.39:864][603]LogBlueprintUserMessages: [ZombieCharacter_C_3] ZOMBIE IS DEAD
+[2023.07.21-15.44.40:223][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.40:226][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.40:230][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.40:233][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.40:237][610]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:511][982]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:515][982]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:517][982]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:519][982]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:522][982]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:746][987]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:747][987]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:750][987]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:754][987]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:757][987]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:935][991]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:939][991]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:942][991]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:945][991]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.56:948][991]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:123][995]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:124][995]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:130][995]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:131][995]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:135][995]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:358][  0]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:361][  0]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:364][  0]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:366][  0]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:368][  0]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:536][  4]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:539][  4]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:543][  4]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:544][  4]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:548][  4]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:722][  8]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:725][  8]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:730][  8]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:732][  8]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:737][  8]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:944][ 13]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:948][ 13]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:950][ 13]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:953][ 13]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.57:956][ 13]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:121][ 17]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:122][ 17]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:124][ 17]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:127][ 17]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:129][ 17]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:340][ 22]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:342][ 22]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:346][ 22]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:348][ 22]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:350][ 22]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:513][ 26]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:516][ 26]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:519][ 26]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:522][ 26]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:523][ 26]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:733][ 31]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:735][ 31]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:740][ 31]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:741][ 31]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:745][ 31]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:953][ 36]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:954][ 36]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:955][ 36]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:957][ 36]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.58:958][ 36]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:129][ 40]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:130][ 40]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:135][ 40]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:138][ 40]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:140][ 40]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:348][ 45]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:350][ 45]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:351][ 45]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:355][ 45]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:358][ 45]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:528][ 49]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:532][ 49]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:534][ 49]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:538][ 49]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.44.59:540][ 49]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:063][346]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:065][346]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:066][346]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:069][346]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:070][346]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:270][351]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:275][351]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:277][351]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:278][351]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:280][351]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:492][356]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:493][356]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:496][356]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:499][356]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:502][356]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:700][361]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:703][361]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:705][361]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:706][361]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:709][361]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.12:789][363]LogBlueprintUserMessages: [BP_Projectile_C_412] 80.0
+[2023.07.21-15.45.12:789][363]LogBlueprintUserMessages: [BP_Projectile_C_411] 60.0
+[2023.07.21-15.45.13:547][381]LogBlueprintUserMessages: [ZombieCharacter_C_7] HIT
+[2023.07.21-15.45.15:516][428]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:520][428]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:522][428]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:523][428]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:524][428]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:727][433]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:730][433]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:732][433]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:734][433]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:736][433]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:943][438]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:946][438]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:949][438]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:954][438]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.15:958][438]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:146][442]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:147][442]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:155][442]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:156][442]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:157][442]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:279][445]LogBlueprintUserMessages: [BP_Projectile_C_431] 40.0
+[2023.07.21-15.45.16:328][446]LogBlueprintUserMessages: [BP_Projectile_C_430] 20.0
+[2023.07.21-15.45.16:328][446]LogBlueprintUserMessages: [BP_Projectile_C_432] 0.0
+[2023.07.21-15.45.16:333][446]LogBlueprintUserMessages: [ZombieCharacter_C_7] ZOMBIE IS DEAD
+[2023.07.21-15.45.16:335][446]LogBlueprintUserMessages: [BP_Projectile_C_431] -20.0
+[2023.07.21-15.45.16:335][446]LogBlueprintUserMessages: [BP_Projectile_C_433] -40.0
+[2023.07.21-15.45.16:343][446]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:346][446]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:350][446]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:352][446]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:354][446]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:419][447]LogBlueprintUserMessages: [WaveManagerBP_2] WAVE FINISHED !
+[2023.07.21-15.45.16:460][448]LogBlueprintUserMessages: [BP_Projectile_C_435] -60.0
+[2023.07.21-15.45.16:461][448]LogBlueprintUserMessages: [BP_Projectile_C_439] -80.0
+[2023.07.21-15.45.16:545][450]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:546][450]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:547][450]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:549][450]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:551][450]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:596][451]LogBlueprintUserMessages: [BP_Projectile_C_441] -100.0
+[2023.07.21-15.45.16:597][451]LogBlueprintUserMessages: [BP_Projectile_C_444] -120.0
+[2023.07.21-15.45.16:750][455]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:752][455]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:754][455]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:759][455]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:762][455]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:925][459]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:927][459]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:928][459]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:931][459]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.16:934][459]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.45.17:442][471]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-15.45.18:437][494]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-15.45.19:419][518]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-15.45.20:413][543]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-15.45.21:432][569]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-15.45.22:441][595]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-15.45.23:429][620]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-15.45.24:444][646]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-15.45.25:426][671]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-15.45.26:436][697]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-15.45.27:430][723]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-15.45.27:430][723]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-15.46.59:048][ 39]LogBlueprintUserMessages: [PlayerCharacter_C_0] FOLLOW ME !
+[2023.07.21-15.47.47:753][142]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:754][142]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:755][142]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:757][142]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:758][142]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:767][142]LogBlueprintUserMessages: [BP_Projectile_C_455] 80.0
+[2023.07.21-15.47.47:767][142]LogBlueprintUserMessages: [BP_Projectile_C_459] 60.0
+[2023.07.21-15.47.47:767][142]LogBlueprintUserMessages: [BP_Projectile_C_456] 40.0
+[2023.07.21-15.47.47:768][142]LogBlueprintUserMessages: [BP_Projectile_C_457] 20.0
+[2023.07.21-15.47.47:768][142]LogBlueprintUserMessages: [BP_Projectile_C_458] 0.0
+[2023.07.21-15.47.47:810][143]LogBlueprintUserMessages: [BP_Projectile_C_458] 80.0
+[2023.07.21-15.47.47:810][143]LogBlueprintUserMessages: [BP_Projectile_C_459] 60.0
+[2023.07.21-15.47.47:810][143]LogBlueprintUserMessages: [BP_Projectile_C_456] 40.0
+[2023.07.21-15.47.47:810][143]LogBlueprintUserMessages: [BP_Projectile_C_455] 20.0
+[2023.07.21-15.47.47:810][143]LogBlueprintUserMessages: [BP_Projectile_C_457] 0.0
+[2023.07.21-15.47.47:811][143]LogBlueprintUserMessages: [ZombieCharacter_C_12] ZOMBIE IS DEAD
+[2023.07.21-15.47.47:812][143]LogBlueprintUserMessages: [ZombieCharacter_C_11] ZOMBIE IS DEAD
+[2023.07.21-15.47.47:982][146]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:983][146]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:989][146]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:991][146]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.47:994][146]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:033][147]LogBlueprintUserMessages: [BP_Projectile_C_461] -20.0
+[2023.07.21-15.47.48:033][147]LogBlueprintUserMessages: [BP_Projectile_C_460] -40.0
+[2023.07.21-15.47.48:033][147]LogBlueprintUserMessages: [BP_Projectile_C_462] -60.0
+[2023.07.21-15.47.48:034][147]LogBlueprintUserMessages: [BP_Projectile_C_463] -80.0
+[2023.07.21-15.47.48:034][147]LogBlueprintUserMessages: [BP_Projectile_C_464] -100.0
+[2023.07.21-15.47.48:203][150]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:204][150]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:207][150]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:210][150]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:212][150]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:213][150]LogBlueprintUserMessages: [BP_Projectile_C_465] -20.0
+[2023.07.21-15.47.48:213][150]LogBlueprintUserMessages: [BP_Projectile_C_466] -40.0
+[2023.07.21-15.47.48:213][150]LogBlueprintUserMessages: [BP_Projectile_C_467] -60.0
+[2023.07.21-15.47.48:213][150]LogBlueprintUserMessages: [BP_Projectile_C_468] -80.0
+[2023.07.21-15.47.48:213][150]LogBlueprintUserMessages: [BP_Projectile_C_469] -100.0
+[2023.07.21-15.47.48:256][151]LogBlueprintUserMessages: [BP_Projectile_C_469] -120.0
+[2023.07.21-15.47.48:256][151]LogBlueprintUserMessages: [BP_Projectile_C_465] -140.0
+[2023.07.21-15.47.48:256][151]LogBlueprintUserMessages: [BP_Projectile_C_468] -160.0
+[2023.07.21-15.47.48:256][151]LogBlueprintUserMessages: [BP_Projectile_C_467] -180.0
+[2023.07.21-15.47.48:256][151]LogBlueprintUserMessages: [BP_Projectile_C_466] -200.0
+[2023.07.21-15.47.48:261][151]LogBlueprintUserMessages: [BP_Projectile_C_465] -220.0
+[2023.07.21-15.47.48:370][153]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:376][153]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:378][153]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:382][153]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.48:383][153]LogBlueprintUserMessages: [BP_Gun_2] 0.0
+[2023.07.21-15.47.49:903][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-15.47.49:903][181]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-15.47.49:905][181]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-15.47.49:910][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-15.47.50:000][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-15.47.50:037][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-15.47.50:098][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-15.47.50:098][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-15.47.50:100][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-15.47.50:118][181]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2023.07.21-15.47.50:174][182]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.07.21-15.47.53:480][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-15.47.53:553][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.07.21-15.47.53:588][259]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMapD5EB17614613A9A3618271B2DA61286C.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-15.47.53:622][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-15.47.53:847][259]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltData91713AE04AFC8BBF4E662FB6A0FD78E3.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-15.47.53:874][259]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-15.47.53:875][259]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-15.47.53:875][259]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-15.50.41:043][  9]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-15.52.34:868][308]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.07.21-15.53.06:840][996]LogEditorTransaction: Undo Move Anchor
+[2023.07.21-15.56.17:360][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-15.56.17:409][715]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreenEE1A2D53441DC7E39394B7A17759BAA5.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-15.56.17:449][715]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-15.56.17:449][715]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-15.56.31:461][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-15.56.31:506][ 20]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreenDE95131D4192A9DA14A35F8FDDC0BABC.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-15.56.31:533][ 20]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-15.56.31:533][ 20]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-15.58.11:287][  4]LogEditorTransaction: Undo Wrap Widgets
+[2023.07.21-15.59.06:931][ 99]LogUObjectHash: Compacting FUObjectHashTables data took  10.68ms
+[2023.07.21-15.59.06:934][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.234
+[2023.07.21-15.59.06:937][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WBP_DeathScreen] ([4] browsable assets)...
+[2023.07.21-15.59.06:937][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_DeathScreen]
+[2023.07.21-15.59.06:937][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/Autosaves/Game/UI/WBP_DeathScreen_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.07.21-15.59.06:982][ 99]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreen_Auto22F3F6B2146E4C50B4FEDC69B83367221.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/Autosaves/Game/UI/WBP_DeathScreen_Auto2.uasset'
+[2023.07.21-15.59.06:984][ 99]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.07.21-16.00.16:493][665]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'ButtonSlot' instance 'ButtonSlot_0'
+[2023.07.21-16.00.16:493][665]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'ButtonSlot' instance 'ButtonSlot_0'
+[2023.07.21-16.00.25:825][457]LogEditorTransaction: Undo Wrap Widgets
+[2023.07.21-16.00.37:067][334]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'PanelSlot' instance 'PanelSlot_0'
+[2023.07.21-16.00.37:067][334]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'PanelSlot' instance 'PanelSlot_0'
+[2023.07.21-16.01.17:198][109]LogEditorTransaction: Undo Remove Widget
+[2023.07.21-16.01.17:207][109]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'PanelSlot' instance 'PanelSlot_0'
+[2023.07.21-16.01.17:207][109]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'PanelSlot' instance 'PanelSlot_0'
+[2023.07.21-16.01.17:217][109]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'PanelSlot' instance 'PanelSlot_0'
+[2023.07.21-16.01.17:217][109]LogMovieScene: Warning: Unable to resolve property 'LayoutData.Offsets' from 'PanelSlot' instance 'PanelSlot_0'
+[2023.07.21-16.01.22:347][603]LogEditorTransaction: Undo Wrap Widgets
+[2023.07.21-16.02.00:918][251]LogEditorTransaction: Undo Resize Widget
+[2023.07.21-16.02.18:427][683]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.07.21-16.02.23:718][ 44]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.07.21-16.02.54:578][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.02.54:631][313]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreen68D2D8CD4F5E1D710D05BD93B80EA536.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.02.54:660][313]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.02.54:660][313]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.03.27:238][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.03.27:283][547]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreenC18BDA0E4332B3132C0E3D8686AF105B.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.03.27:311][547]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.03.27:311][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.04.33:151][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.04.33:200][256]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreenC46DC4CE42435F9B24D7799779C09715.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.04.33:233][256]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.04.33:233][256]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.04.40:032][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.04.40:080][  8]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreen7C4AF1344E8745F97D4D45A9BAB6B962.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.04.40:108][  8]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.04.40:108][  8]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.04.45:814][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.04.45:864][661]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreen1B1D6B8D4AC3B1603CC63F84E74172C3.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.04.45:891][661]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.04.45:891][661]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.04.47:426][828]BlueprintLog: New page: Compile WBP_DeathScreen
+[2023.07.21-16.04.47:633][828]LogUObjectHash: Compacting FUObjectHashTables data took   9.30ms
+[2023.07.21-16.04.51:447][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-16.04.51:507][108]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun3DDD6AFA4272562F48BE22A287DBCAC5.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-16.04.51:537][108]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-16.04.51:537][108]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-16.05.14:883][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.07.21-16.05.15:711][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-16.05.15:791][105]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2023.07.21-16.05.15:826][105]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMapA4E9069B49EA40C4A25FC499396B24CE.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-16.05.15:860][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-16.05.16:137][105]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltData4E2241FE4EF420AF2B6985B9312696D1.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-16.05.16:174][105]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-16.05.16:174][105]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-16.05.16:174][105]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-16.05.17:054][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.07.21-16.05.26:425][452]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.07.21-16.05.36:008][203]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.36:879][248]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.37:315][281]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.38:498][377]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.40:126][520]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.40:490][557]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.41:728][693]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.41:905][710]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.42:119][732]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.42:326][753]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.42:527][773]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.42:735][794]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.42:952][816]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.43:181][840]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.43:407][863]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.43:634][887]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.43:861][911]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.44:093][935]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.44:318][958]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.44:542][981]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.44:738][  1]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.44:951][ 23]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.45:173][ 45]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.45:406][ 69]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.45:643][ 94]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.46:501][189]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.49:126][428]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.49:406][445]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.49:640][458]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.50:228][505]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.50:528][525]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.50:925][554]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.51:454][593]LogEditorTransaction: Undo Nudge Widget
+[2023.07.21-16.05.53:025][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.05.53:073][735]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreenAC77E0B84D6D89990C4151993B52E2A5.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.05.53:106][735]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.05.53:106][735]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.07.00:282][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.07.00:333][980]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreen6BA285824BDB3E73601BAE83E1370345.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.07.00:364][980]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.07.00:365][980]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.07.08:076][809]BlueprintLog: New page: Compile WBP_DeathScreen
+[2023.07.21-16.07.08:251][809]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2023.07.21-16.07.09:449][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_DeathScreen" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset" SILENT=true
+[2023.07.21-16.07.09:495][923]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/WBP_DeathScreenF4C9A16C4A88F5C1F58A4EB457EEEC44.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/UI/WBP_DeathScreen.uasset'
+[2023.07.21-16.07.09:525][923]AssetCheck: New page: Asset Save: WBP_DeathScreen
+[2023.07.21-16.07.09:525][923]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_DeathScreen.WBP_DeathScreen
+[2023.07.21-16.07.20:964][134]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-16.07.20:964][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-16.07.20:983][134]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-16.07.20:983][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
