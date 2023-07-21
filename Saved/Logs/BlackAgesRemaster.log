@@ -2880,3 +2880,605 @@ Make sure 'UI_EBS_BuildingMenuSegment_C' has been compiled for  Set BuildingObje
 [2023.07.21-11.36.07:095][994]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
 [2023.07.21-11.36.07:149][995]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2023.07.21-11.36.15:751][ 94]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-11.38.31:712][957]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-11.38.32:152][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.38.38:069][409]LogRenderer: Reallocating scene render targets to support 708x460 Format 10 NumSamples 1 (Frame:1).
+[2023.07.21-11.39.27:223][506]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-11.39.40:235][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.39.40:260][892]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileF34884C64DE1E9FE66D1EF8631BE3A22.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.39.40:292][892]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.39.40:292][892]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.39.56:313][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.39.56:336][346]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile15D27F3C450CF5A6F66033917D59EF3D.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.39.56:364][346]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.39.56:364][346]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.40.14:291][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.40.14:314][833]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile06779CA448A97A544DB5968442A6C273.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.40.14:354][833]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.40.14:354][833]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.40.23:256][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.21-11.40.23:276][ 59]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.21-11.40.23:298][ 59]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2023.07.21-11.40.23:515][ 59]LogUObjectHash: Compacting FUObjectHashTables data took  10.51ms
+[2023.07.21-11.40.23:519][ 59]LogPlayLevel: PlayLevel: Blueprint regeneration took 243 ms (1 blueprints)
+[2023.07.21-11.40.23:519][ 59]PIE: New page: PIE session: TestMap (21 juil. 2023 à 15:40:23)
+[2023.07.21-11.40.23:521][ 59]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.40.23:532][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011050s)
+[2023.07.21-11.40.23:534][ 59]LogAIModule: Creating AISystem for world TestMap
+[2023.07.21-11.40.23:534][ 59]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2023.07.21-11.40.23:534][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.013264s)
+[2023.07.21-11.40.23:623][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2023.07.21-11.40.23:625][ 59]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.07.21-11.40.23:625][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-11.40.23:625][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-11.40.23:625][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-11.40.23:625][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-11.40.23:625][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.21-11.40.23:625][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.21-11.40.23:625][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.21-11.40.23:625][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-11.40.23:626][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.21-11.40.23:626][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.21-11.40.23:626][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-11.40.23:626][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.21-11.40.23:630][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.21-11.40.23:630][ 59]LogAudioMixer: Display: 1: FrontRight
+[2023.07.21-11.40.23:660][ 59]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.21-11.40.23:660][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-11.40.23:660][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-11.40.23:660][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-11.40.23:661][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.21-11.40.23:661][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.21-11.40.23:661][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.21-11.40.23:663][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.21-11.40.23:663][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.21-11.40.23:663][ 59]LogInit: FAudioDevice initialized.
+[2023.07.21-11.40.23:663][ 59]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2023.07.21-11.40.23:675][ 59]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.21-11.40.23:682][ 59]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.21-13.40.23
+[2023.07.21-11.40.23:683][ 59]LogWorld: Bringing up level for play took: 0.006866
+[2023.07.21-11.40.23:683][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.07.21-11.40.23:705][ 59]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.21-11.40.23:705][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.21-11.40.23:706][ 59]PIE: Server logged in
+[2023.07.21-11.40.23:707][ 59]PIE: Play in editor total start time 0,433 seconds.
+[2023.07.21-11.40.24:367][ 72]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-11.40.25:364][ 96]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-11.40.26:382][121]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-11.40.27:375][146]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-11.40.28:394][174]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-11.40.29:369][201]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-11.40.30:397][229]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-11.40.31:384][256]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-11.40.32:370][285]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-11.40.33:396][315]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-11.40.34:367][344]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-11.40.34:367][344]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-11.40.46:737][661]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.40.49:530][732]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.40.51:073][772]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=107.49 Y=18.51 Z=0.00 Location: X=-858.51 Y=26.13 Z=140.78 Normal: X=0.80 Y=-0.60 Z=0.00 PenetrationDepth:19.501 Actor:BP_Projectile_C_42 Component:Sphere1 BoneName:None (0 other events since notify)
+[2023.07.21-11.40.51:742][789]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.40.52:278][803]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.40.52:279][803]PIE: Warning: The widget 'WBP_DamageRedScreen_C' was already added to the screen.
+[2023.07.21-11.40.56:100][902]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.41.01:607][ 39]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=102.19 Y=-225.82 Z=0.00 Location: X=-1336.86 Y=-1268.27 Z=110.23 Normal: X=-0.04 Y=0.98 Z=0.17 PenetrationDepth:5.338 Actor:BP_Projectile_C_56 Component:Sphere1 BoneName:None (0 other events since notify)
+[2023.07.21-11.41.05:348][130]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.41.12:147][301]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.41.12:437][308]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=55.00 Y=-68.62 Z=0.00 Location: X=-1574.26 Y=-1796.00 Z=109.01 Normal: X=0.77 Y=-0.64 Z=0.00 PenetrationDepth:12.780 Actor:BP_Projectile_C_106 Component:Sphere1 BoneName:None (2 other events since notify)
+[2023.07.21-11.41.14:325][355]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.41.17:238][423]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=91.38 Y=73.31 Z=0.00 Location: X=-1741.87 Y=-2070.18 Z=110.15 Normal: X=-0.27 Y=0.96 Z=0.00 PenetrationDepth:9.751 Actor:BP_Projectile_C_122 Component:Sphere1 BoneName:None (3 other events since notify)
+[2023.07.21-11.41.21:758][533]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.41.30:667][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.41.30:667][755]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.41.30:668][755]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-11.41.30:670][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.41.30:717][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-11.41.30:744][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.41.30:819][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.41.30:820][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.41.30:821][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.41.30:843][755]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2023.07.21-11.41.31:006][756]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.07.21-11.41.34:445][844]LogSlate: Window 'Message Log' being destroyed
+[2023.07.21-11.41.34:463][844]LogSlate: Window 'Message Log' being destroyed
+[2023.07.21-11.42.24:114][521]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.21-11.42.24:130][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.21-11.42.24:130][521]PIE: New page: PIE session: TestMap (21 juil. 2023 à 15:42:24)
+[2023.07.21-11.42.24:130][521]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.42.24:144][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013961s)
+[2023.07.21-11.42.24:146][521]LogAIModule: Creating AISystem for world TestMap
+[2023.07.21-11.42.24:146][521]LogPlayLevel: PIE: World Init took: (0.002161s)
+[2023.07.21-11.42.24:147][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.016388s)
+[2023.07.21-11.42.24:236][521]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2023.07.21-11.42.24:240][521]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.07.21-11.42.24:240][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-11.42.24:240][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-11.42.24:240][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-11.42.24:240][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-11.42.24:240][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.21-11.42.24:240][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.21-11.42.24:240][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.21-11.42.24:240][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-11.42.24:241][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.21-11.42.24:241][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.21-11.42.24:241][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-11.42.24:241][521]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.21-11.42.24:244][521]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.21-11.42.24:244][521]LogAudioMixer: Display: 1: FrontRight
+[2023.07.21-11.42.24:268][521]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.21-11.42.24:268][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-11.42.24:269][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-11.42.24:269][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-11.42.24:269][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.21-11.42.24:270][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.21-11.42.24:270][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.21-11.42.24:271][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.21-11.42.24:271][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.21-11.42.24:271][521]LogInit: FAudioDevice initialized.
+[2023.07.21-11.42.24:271][521]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2023.07.21-11.42.24:286][521]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.21-11.42.24:290][521]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.21-13.42.24
+[2023.07.21-11.42.24:291][521]LogWorld: Bringing up level for play took: 0.004620
+[2023.07.21-11.42.24:291][521]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.07.21-11.42.24:307][521]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.21-11.42.24:307][521]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.21-11.42.24:308][521]PIE: Server logged in
+[2023.07.21-11.42.24:308][521]PIE: Play in editor total start time 0,18 seconds.
+[2023.07.21-11.42.25:097][541]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-11.42.26:082][566]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-11.42.27:099][593]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-11.42.28:099][619]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-11.42.28:488][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.42.28:488][628]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.42.28:489][628]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-11.42.28:491][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.42.28:529][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-11.42.28:551][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.42.28:624][628]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.21-11.42.28:624][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.42.28:625][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.42.28:629][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.42.28:639][628]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2023.07.21-11.42.28:692][629]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.07.21-11.44.11:790][737]BlueprintLog: New page: Compile BP_Gun
+[2023.07.21-11.44.11:974][737]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2023.07.21-11.44.13:110][811]BlueprintLog: New page: Compile BP_Gun
+[2023.07.21-11.44.13:282][811]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2023.07.21-11.44.16:418][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-11.44.16:462][ 53]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun1D51545D42DE750C1E8897B65D806E88.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-11.44.16:491][ 53]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-11.44.16:491][ 53]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-11.44.31:305][492]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.21-11.44.31:323][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.21-11.44.31:323][492]PIE: New page: PIE session: TestMap (21 juil. 2023 à 15:44:31)
+[2023.07.21-11.44.31:323][492]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.44.31:333][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010453s)
+[2023.07.21-11.44.31:336][492]LogAIModule: Creating AISystem for world TestMap
+[2023.07.21-11.44.31:337][492]LogPlayLevel: PIE: World Init took: (0.003087s)
+[2023.07.21-11.44.31:337][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.013841s)
+[2023.07.21-11.44.31:430][492]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2023.07.21-11.44.31:432][492]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.21-11.44.31:433][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-11.44.31:433][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.21-11.44.31:433][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.21-11.44.31:433][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-11.44.31:433][492]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.21-11.44.31:436][492]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.21-11.44.31:436][492]LogAudioMixer: Display: 1: FrontRight
+[2023.07.21-11.44.31:459][492]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.21-11.44.31:460][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-11.44.31:460][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-11.44.31:460][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-11.44.31:460][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.21-11.44.31:461][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.21-11.44.31:461][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.21-11.44.31:462][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.21-11.44.31:462][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.21-11.44.31:462][492]LogInit: FAudioDevice initialized.
+[2023.07.21-11.44.31:462][492]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2023.07.21-11.44.31:475][492]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.21-11.44.31:478][492]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.21-13.44.31
+[2023.07.21-11.44.31:479][492]LogWorld: Bringing up level for play took: 0.004157
+[2023.07.21-11.44.31:480][492]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.07.21-11.44.31:495][492]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.21-11.44.31:496][492]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.21-11.44.31:496][492]PIE: Server logged in
+[2023.07.21-11.44.31:497][492]PIE: Play in editor total start time 0,176 seconds.
+[2023.07.21-11.44.32:274][512]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-11.44.33:262][540]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-11.44.34:266][569]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-11.44.35:266][597]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-11.44.36:286][624]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-11.44.37:266][650]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-11.44.38:263][676]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-11.44.39:292][703]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-11.44.40:268][728]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-11.44.41:290][754]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-11.44.42:278][780]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-11.44.42:278][780]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-11.44.50:863][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.44.50:863][990]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.44.50:864][990]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-11.44.50:871][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.44.50:913][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-11.44.50:933][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.44.51:009][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.21-11.44.51:010][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.44.51:011][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.44.51:015][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.44.51:025][990]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2023.07.21-11.44.51:069][991]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.07.21-11.45.00:893][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-11.45.00:990][194]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2023.07.21-11.45.01:026][194]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap8334F6B34B77CB0A7A49928F7FEB529C.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-11.45.01:058][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-11.45.01:277][194]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltDataAB113D064589769E0918EAADFCAD2496.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-11.45.01:303][194]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-11.45.01:303][194]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-11.45.01:303][194]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-11.45.18:236][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-11.45.18:282][320]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun7B21AC0C47239D91733F6ABC6F372CC6.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-11.45.18:312][320]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-11.45.18:312][320]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-11.45.20:257][468]BlueprintLog: New page: Compile BP_Gun
+[2023.07.21-11.45.20:443][468]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2023.07.21-11.45.28:708][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.07.21-11.45.29:125][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-11.45.29:217][120]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2023.07.21-11.45.29:254][120]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMapA66F849E4D4235684B29FDA2D17F2FF3.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-11.45.29:285][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-11.45.29:503][120]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltData174309ED47E33DD913AE5A8241844566.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-11.45.29:528][120]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-11.45.29:528][120]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-11.45.29:528][120]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-11.45.33:390][208]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.21-11.45.33:417][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.21-11.45.33:417][208]PIE: New page: PIE session: TestMap (21 juil. 2023 à 15:45:33)
+[2023.07.21-11.45.33:417][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.45.33:436][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019333s)
+[2023.07.21-11.45.33:438][208]LogAIModule: Creating AISystem for world TestMap
+[2023.07.21-11.45.33:439][208]LogPlayLevel: PIE: World Init took: (0.002471s)
+[2023.07.21-11.45.33:439][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.022081s)
+[2023.07.21-11.45.33:551][208]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
+[2023.07.21-11.45.33:552][208]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.07.21-11.45.33:552][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-11.45.33:552][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-11.45.33:552][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-11.45.33:552][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-11.45.33:552][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.21-11.45.33:552][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.21-11.45.33:552][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.21-11.45.33:552][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-11.45.33:553][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.21-11.45.33:553][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.21-11.45.33:553][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-11.45.33:553][208]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.21-11.45.33:559][208]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.21-11.45.33:559][208]LogAudioMixer: Display: 1: FrontRight
+[2023.07.21-11.45.33:593][208]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.21-11.45.33:594][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-11.45.33:594][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-11.45.33:594][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-11.45.33:595][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.21-11.45.33:595][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.21-11.45.33:595][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.21-11.45.33:597][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.21-11.45.33:597][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.21-11.45.33:597][208]LogInit: FAudioDevice initialized.
+[2023.07.21-11.45.33:597][208]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2023.07.21-11.45.33:608][208]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.21-11.45.33:615][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.21-13.45.33
+[2023.07.21-11.45.33:616][208]LogWorld: Bringing up level for play took: 0.006864
+[2023.07.21-11.45.33:617][208]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.07.21-11.45.33:646][208]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.21-11.45.33:647][208]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.21-11.45.33:648][208]PIE: Server logged in
+[2023.07.21-11.45.33:649][208]PIE: Play in editor total start time 0,235 seconds.
+[2023.07.21-11.45.34:365][226]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-11.45.35:370][253]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-11.45.36:350][280]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-11.45.37:371][308]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-11.45.38:362][335]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-11.45.39:376][360]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-11.45.40:390][385]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-11.45.41:371][409]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-11.45.42:378][434]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-11.45.43:452][457]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-11.45.44:389][481]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-11.45.44:389][481]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-11.45.53:400][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.45.53:400][703]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.45.53:402][703]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-11.45.53:411][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.45.53:454][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-11.45.53:492][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.45.53:582][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.21-11.45.53:582][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.45.53:584][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.45.53:588][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.45.53:600][703]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2023.07.21-11.45.53:668][704]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.07.21-11.46.00:385][833]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-11.46.19:724][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.46.19:745][313]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileA2C7D46141542F29E30B6F8B80EB9A12.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.46.19:773][313]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.46.19:773][313]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.46.49:889][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.46.49:910][930]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile50DF0E074F3E5D2CCEE0D0AB234A57C5.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.46.49:942][930]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.46.49:942][930]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.47.01:739][273]LogEditorTransaction: Undo Collision Channel Changes
+[2023.07.21-11.47.08:119][461]LogEditorTransaction: Undo Collision Channel Changes
+[2023.07.21-11.47.08:949][484]LogEditorTransaction: Undo Edit Can Character Step Up On
+[2023.07.21-11.47.19:730][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.47.19:750][774]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile201717324E4233F0F4AA149C70A16EA7.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.47.19:787][774]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.47.19:787][774]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.47.27:457][326]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.21-11.47.27:635][326]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2023.07.21-11.48.24:816][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.48.24:835][742]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileC05DD23F4B2A7D07FE1E9CA263D8049D.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.48.24:868][742]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.48.24:868][742]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.49.33:076][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.49.33:095][794]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile2EA94DB04096641DDC428187B7A2F163.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.49.33:121][794]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.49.33:121][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.49.46:157][156]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.21-11.49.46:306][156]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2023.07.21-11.49.47:283][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.49.47:302][223]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile025542334206D3DBFD6BDC91BA81AAA3.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.49.47:331][223]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.49.47:331][223]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.49.56:528][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-11.49.56:608][527]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2023.07.21-11.49.56:643][527]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap53EDC82940CAAF39D66432B81E9043FE.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-11.49.56:683][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-11.49.56:906][527]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltData682C247448403F985FCBEEB1D7CE7EAE.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-11.49.56:933][527]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-11.49.56:933][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-11.49.56:933][527]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-11.50.02:987][667]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.21-11.50.03:019][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.21-11.50.03:019][667]PIE: New page: PIE session: TestMap (21 juil. 2023 à 15:50:03)
+[2023.07.21-11.50.03:020][667]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.50.03:037][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018419s)
+[2023.07.21-11.50.03:039][667]LogAIModule: Creating AISystem for world TestMap
+[2023.07.21-11.50.03:039][667]LogPlayLevel: PIE: World Init took: (0.002493s)
+[2023.07.21-11.50.03:039][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.021206s)
+[2023.07.21-11.50.03:136][667]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2023.07.21-11.50.03:138][667]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.07.21-11.50.03:138][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-11.50.03:138][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-11.50.03:138][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-11.50.03:138][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-11.50.03:138][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.21-11.50.03:138][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.21-11.50.03:138][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.21-11.50.03:138][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-11.50.03:139][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.21-11.50.03:139][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.21-11.50.03:139][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-11.50.03:139][667]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.21-11.50.03:143][667]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.21-11.50.03:143][667]LogAudioMixer: Display: 1: FrontRight
+[2023.07.21-11.50.03:169][667]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.21-11.50.03:170][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-11.50.03:170][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-11.50.03:170][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-11.50.03:171][667]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.21-11.50.03:171][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.21-11.50.03:171][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.21-11.50.03:172][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.21-11.50.03:172][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.21-11.50.03:172][667]LogInit: FAudioDevice initialized.
+[2023.07.21-11.50.03:172][667]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2023.07.21-11.50.03:187][667]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.21-11.50.03:192][667]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.21-13.50.03
+[2023.07.21-11.50.03:193][667]LogWorld: Bringing up level for play took: 0.005845
+[2023.07.21-11.50.03:194][667]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.07.21-11.50.03:214][667]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.21-11.50.03:215][667]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.21-11.50.03:215][667]PIE: Server logged in
+[2023.07.21-11.50.03:216][667]PIE: Play in editor total start time 0,199 seconds.
+[2023.07.21-11.50.03:986][685]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-11.50.04:988][709]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-11.50.05:963][733]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-11.50.06:967][758]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-11.50.07:977][783]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-11.50.08:956][807]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-11.50.09:983][833]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-11.50.10:974][859]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-11.50.11:952][884]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-11.50.12:979][911]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-11.50.13:968][937]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-11.50.13:968][937]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-11.50.27:241][268]LogBlueprintUserMessages: [ZombieCharacter_C_2] HIT
+[2023.07.21-11.50.29:308][320]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-11.50.31:637][379]LogBlueprintUserMessages: [ZombieCharacter_C_2] HIT
+[2023.07.21-11.50.31:794][383]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.50.31:795][383]PIE: Warning: The widget 'WBP_DamageRedScreen_C' was already added to the screen.
+[2023.07.21-11.50.32:936][412]LogCharacterMovement: ZombieCharacter_C_2 is stuck and failed to move! Velocity: X=-69.72 Y=-42.72 Z=0.00 Location: X=-1430.71 Y=1425.29 Z=110.15 Normal: X=-0.06 Y=-1.00 Z=0.00 PenetrationDepth:19.990 Actor:BP_Projectile_C_33 Component:Sphere1 BoneName:None (0 other events since notify)
+[2023.07.21-11.50.33:315][422]LogCharacterMovement: PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=72.12 Y=57.07 Z=0.00 Location: X=-1498.41 Y=1418.71 Z=188.01 Normal: X=0.32 Y=-0.79 Z=0.52 PenetrationDepth:25.863 Actor:BP_Projectile_C_34 Component:Sphere1 BoneName:None (0 other events since notify)
+[2023.07.21-11.50.34:129][443]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.50.37:088][518]LogCharacterMovement: ZombieCharacter_C_2 is stuck and failed to move! Velocity: X=-357.73 Y=-112.50 Z=0.00 Location: X=-1470.56 Y=1355.64 Z=110.15 Normal: X=0.94 Y=-0.33 Z=0.00 PenetrationDepth:0.005 Actor:BP_Projectile_C_45 Component:Sphere1 BoneName:None (11 other events since notify)
+[2023.07.21-11.50.40:076][594]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-11.50.54:888][952]Cmd: CAMERA ALIGN
+[2023.07.21-11.50.54:888][952]Can't find target actor or component.
+[2023.07.21-11.50.55:456][966]LogBlueprintUserMessages: [PlayerCharacter_C_0] FOLLOW ME !
+[2023.07.21-11.50.56:060][980]LogBlueprintUserMessages: [PlayerCharacter_C_0] HOLD !
+[2023.07.21-11.50.59:701][ 66]LogBlueprintUserMessages: [PlayerCharacter_C_0] FOLLOW ME !
+[2023.07.21-11.51.11:052][345]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.21-11.51.14:405][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.51.14:406][421]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.51.14:408][421]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-11.51.14:412][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.51.14:452][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-11.51.14:492][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.51.14:566][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.21-11.51.14:566][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.51.14:567][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.51.14:572][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.51.14:585][421]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2023.07.21-11.51.14:747][422]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.07.21-11.51.17:934][500]LogSlate: Window 'Message Log' being destroyed
+[2023.07.21-11.51.17:974][500]LogSlate: Window 'Message Log' being destroyed
+[2023.07.21-11.52.36:205][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.52.36:223][721]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Projectile8F42D944477ACED76F2CC79020A8A89C.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.52.36:252][721]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.52.36:252][721]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.52.58:350][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Projectile" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset" SILENT=true
+[2023.07.21-11.52.58:365][893]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_ProjectileC9A4ADDC46F36ABF1C40B39FC5E2E8CC.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Projectile.uasset'
+[2023.07.21-11.52.58:399][893]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.07.21-11.52.58:399][893]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.07.21-11.53.07:887][808]BlueprintLog: New page: Compile BP_Projectile
+[2023.07.21-11.53.08:029][808]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2023.07.21-11.53.11:601][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-11.53.11:685][949]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2023.07.21-11.53.11:752][949]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap1C5768A64BAD59D860A53A8ACC5B48E7.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-11.53.11:794][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-11.53.12:049][949]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltDataFE0F6F874ABBDC699B34E3B44B769595.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-11.53.12:050][949]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset', retrying in .5s...
+[2023.07.21-11.53.12:552][949]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.07.21-11.53.12:596][949]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-11.53.12:596][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-11.53.12:596][949]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-11.53.14:457][995]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.21-11.53.14:479][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.21-11.53.14:480][995]PIE: New page: PIE session: TestMap (21 juil. 2023 à 15:53:14)
+[2023.07.21-11.53.14:480][995]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.53.14:498][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017928s)
+[2023.07.21-11.53.14:500][995]LogAIModule: Creating AISystem for world TestMap
+[2023.07.21-11.53.14:501][995]LogPlayLevel: PIE: World Init took: (0.002577s)
+[2023.07.21-11.53.14:501][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.020773s)
+[2023.07.21-11.53.14:616][995]LogUObjectHash: Compacting FUObjectHashTables data took   9.43ms
+[2023.07.21-11.53.14:619][995]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.07.21-11.53.14:619][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-11.53.14:619][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-11.53.14:619][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-11.53.14:619][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-11.53.14:619][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.21-11.53.14:619][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.21-11.53.14:619][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.21-11.53.14:619][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-11.53.14:620][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.21-11.53.14:620][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.21-11.53.14:620][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-11.53.14:620][995]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.21-11.53.14:627][995]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.21-11.53.14:627][995]LogAudioMixer: Display: 1: FrontRight
+[2023.07.21-11.53.14:665][995]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek High Definition Audio)
+[2023.07.21-11.53.14:666][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-11.53.14:666][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-11.53.14:666][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-11.53.14:667][995]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.21-11.53.14:667][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.21-11.53.14:667][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.21-11.53.14:669][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.21-11.53.14:669][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.21-11.53.14:669][995]LogInit: FAudioDevice initialized.
+[2023.07.21-11.53.14:669][995]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2023.07.21-11.53.14:685][995]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.21-11.53.14:692][995]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.07.21-13.53.14
+[2023.07.21-11.53.14:693][995]LogWorld: Bringing up level for play took: 0.007013
+[2023.07.21-11.53.14:694][995]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.07.21-11.53.14:722][995]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.21-11.53.14:723][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.21-11.53.14:724][995]PIE: Server logged in
+[2023.07.21-11.53.14:726][995]PIE: Play in editor total start time 0,248 seconds.
+[2023.07.21-11.53.15:468][ 13]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.21-11.53.16:481][ 39]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.21-11.53.17:475][ 65]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.21-11.53.18:456][ 91]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.21-11.53.19:463][118]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.21-11.53.20:451][145]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.21-11.53.21:487][173]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.21-11.53.22:457][199]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.21-11.53.23:464][227]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.21-11.53.24:471][256]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.21-11.53.25:463][284]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.21-11.53.25:463][284]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.21-11.53.27:946][342]LogBlueprintUserMessages: [ZombieCharacter_C_1] HIT
+[2023.07.21-11.53.28:120][346]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.53.28:121][346]PIE: Warning: The widget 'WBP_DamageRedScreen_C' was already added to the screen.
+[2023.07.21-11.53.32:390][446]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.53.35:531][519]LogBlueprintUserMessages: [ZombieCharacter_C_1] ZOMBIE IS DEAD
+[2023.07.21-11.53.42:272][681]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.53.50:887][902]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.53.53:693][976]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.53.56:575][ 49]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.53.59:342][122]LogBlueprintUserMessages: [ZombieCharacter_C_0] HIT
+[2023.07.21-11.54.01:127][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.54.01:127][167]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2023.07.21-11.54.01:128][167]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-11.54.01:131][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.54.01:174][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-11.54.01:210][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-11.54.01:282][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.21-11.54.01:282][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.54.01:283][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.21-11.54.01:288][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-11.54.01:298][167]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2023.07.21-11.54.01:462][168]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.07.21-11.54.03:878][230]LogSlate: Window 'Message Log' being destroyed
+[2023.07.21-11.54.03:904][230]LogSlate: Window 'Message Log' being destroyed
+[2023.07.21-11.54.05:186][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-11.54.05:270][264]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2023.07.21-11.54.05:305][264]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMapED1D73924F27FADAB414C9A68AF4DFF0.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-11.54.05:335][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-11.54.05:550][264]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltData1029801C4DACE8B15377359CEA82E9EB.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-11.54.05:588][264]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-11.54.05:588][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-11.54.05:588][264]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
+[2023.07.21-11.54.26:256][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-11.54.26:301][983]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_GunB60BF6314036C53F262E69BE1D1E79CB.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-11.54.26:330][983]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-11.54.26:330][983]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-11.55.20:974][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-11.55.21:019][677]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_GunD9B4A5E3492BBBA026F489887538A671.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-11.55.21:053][677]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-11.55.21:053][677]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-11.55.59:889][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-11.55.59:936][398]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun616540AE430DFD3ACB0CB8921B38E328.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-11.55.59:966][398]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-11.55.59:966][398]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-11.58.04:336][688]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.07.21-11.58.06:920][743]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleComponent) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:920][743]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleComponent) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:922][743]LogBlueprint: Warning: FMemberReference::ResolveMember (TimeRemaining) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:922][743]LogBlueprint: Warning: FMemberReference::ResolveMember (TimeRemaining) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:923][743]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorLocation) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:923][743]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorLocation) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:923][743]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorLocation) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:924][743]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleComponent) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:924][743]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleComponent) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:925][743]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleMesh) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.06:925][743]LogBlueprint: Warning: FMemberReference::ResolveMember (DestructibleMesh) bSelfContext == true, but no scope supplied!
+[2023.07.21-11.58.10:745][880]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.07.21-11.58.10:754][880]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.07.21-11.58.18:174][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-11.58.18:222][460]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun40793315439E7F158CB7F5B399F232EA.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-11.58.18:250][460]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-11.58.18:250][460]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-11.58.38:366][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gun" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset" SILENT=true
+[2023.07.21-11.58.38:423][388]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/BP_Gun53EA771B421277C775CAFEBDBF7639F6.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Blueprints/BP_Gun.uasset'
+[2023.07.21-11.58.38:460][388]AssetCheck: New page: Asset Save: BP_Gun
+[2023.07.21-11.58.38:460][388]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Gun.BP_Gun
+[2023.07.21-11.58.40:688][557]BlueprintLog: New page: Compile BP_Gun
+[2023.07.21-11.58.40:864][557]LogUObjectHash: Compacting FUObjectHashTables data took   9.35ms
+[2023.07.21-11.58.46:141][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.07.21-11.58.46:824][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.21-11.58.46:906][822]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2023.07.21-11.58.46:940][822]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap04A6D0BD4D07140A352FAABEA714DD92.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap.umap'
+[2023.07.21-11.58.46:972][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2023.07.21-11.58.47:191][822]LogSavePackage: Moving '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Saved/TestMap_BuiltDataF54D487B40E287B3C9C72098DBED8288.tmp' to '../../../../../../Users/HP/Desktop/BlackAges/BlackAges2/Content/Levels/TestMap_BuiltData.uasset'
+[2023.07.21-11.58.47:221][822]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.21-11.58.47:221][822]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMap_BuiltData.TestMap_BuiltData
+[2023.07.21-11.58.47:221][822]LogContentValidation: Display: Validating World /Game/Levels/TestMap.TestMap
