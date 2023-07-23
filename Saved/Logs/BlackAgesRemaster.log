@@ -2557,3 +2557,258 @@ Make sure 'UI_EBS_BuildingMenuSegment_C' has been compiled for  Set BuildingObje
 [2023.07.23-16.58.47:763][148]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ACTORS/HomeObjectiveBP.HomeObjectiveBP
 [2023.07.23-16.58.48:818][242]BlueprintLog: New page: Compile HomeObjectiveBP
 [2023.07.23-16.58.48:964][242]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2023.07.23-17.01.08:664][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ACTORS/HomeObjectiveBP" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/Blueprints/ACTORS/HomeObjectiveBP.uasset" SILENT=true
+[2023.07.23-17.01.08:710][584]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/HomeObjectiveBP71FF1EB3470C7265650BEA9F4E26DD70.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/Blueprints/ACTORS/HomeObjectiveBP.uasset'
+[2023.07.23-17.01.08:733][584]AssetCheck: New page: Asset Save: HomeObjectiveBP
+[2023.07.23-17.01.08:733][584]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ACTORS/HomeObjectiveBP.HomeObjectiveBP
+[2023.07.23-17.01.17:729][532]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2023.07.23-17.01.18:694][532]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/BaseLevel.BaseLevel
+[2023.07.23-17.01.18:694][532]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/Levels/BaseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.23-17.01.18:694][532]LightingResults: New page: Lighting Build
+[2023.07.23-17.01.18:694][532]LoadErrors: New page: Loading map: BaseLevel.umap
+[2023.07.23-17.01.18:695][532]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.23-17.01.18:695][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.23-17.01.18:696][532]MapCheck: New page: Map Check
+[2023.07.23-17.01.18:696][532]LightingResults: New page: Lighting Build
+[2023.07.23-17.01.18:739][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.23-17.01.18:753][532]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2023.07.23-17.01.18:754][532]LogAudio: Display: Audio Device (ID: 1) registered with world 'BaseLevel'.
+[2023.07.23-17.01.18:932][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.23-17.01.18:932][532]LogAIModule: Creating AISystem for world BaseLevel
+[2023.07.23-17.01.19:007][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.07.23-17.01.19:030][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.23-17.01.19:030][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,246ms to complete.
+[2023.07.23-17.01.19:030][532]LogFileHelpers: Loading map 'BaseLevel' took 0.337
+[2023.07.23-17.01.21:821][779]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.23-17.01.21:830][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.23-17.01.21:830][779]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_BaseObject
+[2023.07.23-17.01.21:830][779]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_DoorLock
+[2023.07.23-17.01.21:830][779]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Door
+[2023.07.23-17.01.21:830][779]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_BuildingComponent
+[2023.07.23-17.01.21:830][779]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Bed
+[2023.07.23-17.01.21:830][779]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Campfire
+[2023.07.23-17.01.21:830][779]BlueprintLog: Warning: Blueprint failed to compile:  BP_EBS_Building_Torch
+[2023.07.23-17.01.21:831][779]BlueprintLog: Warning: Blueprint failed to compile:  WDG_InventoryMenuContent
+[2023.07.23-17.01.21:831][779]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_HUD
+[2023.07.23-17.01.21:831][779]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_BuildingMenuSegment
+[2023.07.23-17.01.21:831][779]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_BuildingMenu
+[2023.07.23-17.01.21:831][779]BlueprintLog: Warning: Blueprint failed to compile:  UI_EBS_MalletMenu
+[2023.07.23-17.01.21:831][779]LogCustomDialog: Dialog displayed:
+[2023.07.23-17.01.23:094][779]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.07.23-17.01.23:108][779]PIE: New page: PIE session: BaseLevel (23 juil. 2023 à 21:01:23)
+[2023.07.23-17.01.23:149][779]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.07.23-17.01.23:150][779]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.23-17.01.23:150][779]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BaseLevel
+[2023.07.23-17.01.23:279][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129042s)
+[2023.07.23-17.01.23:280][779]LogAIModule: Creating AISystem for world BaseLevel
+[2023.07.23-17.01.23:281][779]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2023.07.23-17.01.23:281][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BaseLevel.BaseLevel to /Game/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.130638s)
+[2023.07.23-17.01.23:327][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.07.23-17.01.23:331][779]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.23-17.01.23:331][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.23-17.01.23:331][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.23-17.01.23:331][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.23-17.01.23:331][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.23-17.01.23:331][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.23-17.01.23:331][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.23-17.01.23:331][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.23-17.01.23:331][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.23-17.01.23:331][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.23-17.01.23:331][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.23-17.01.23:331][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.23-17.01.23:332][779]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.23-17.01.23:333][779]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.07.23-17.01.23:333][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.23-17.01.23:333][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.23-17.01.23:333][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.23-17.01.23:334][779]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.23-17.01.23:334][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.23-17.01.23:334][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.23-17.01.23:335][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.23-17.01.23:335][779]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.07.23-17.01.23:336][779]LogInit: FAudioDevice initialized.
+[2023.07.23-17.01.23:336][779]LogAudio: Display: Audio Device (ID: 2) registered with world 'BaseLevel'.
+[2023.07.23-17.01.23:349][779]LogLoad: Game class is 'DEDEefaultGameMode_C'
+[2023.07.23-17.01.23:361][779]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2023.07.23-19.01.23
+[2023.07.23-17.01.23:361][779]LogWorld: Bringing up level for play took: 0.011311
+[2023.07.23-17.01.23:362][779]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.07.23-17.01.23:372][779]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.07.23-17.01.23:386][779]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (decrease life) or object (PlayerCharacter_C_0)
+[2023.07.23-17.01.23:386][779]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.23-17.01.23:387][779]PIE: Server logged in
+[2023.07.23-17.01.23:388][779]PIE: Play in editor total start time 1,559 seconds.
+[2023.07.23-17.01.24:092][799]LogBlueprintUserMessages: [WaveManagerBP_2] 10
+[2023.07.23-17.01.25:101][910]LogBlueprintUserMessages: [WaveManagerBP_2] 9
+[2023.07.23-17.01.26:099][  9]LogBlueprintUserMessages: [WaveManagerBP_2] 8
+[2023.07.23-17.01.27:097][103]LogBlueprintUserMessages: [WaveManagerBP_2] 7
+[2023.07.23-17.01.28:097][193]LogBlueprintUserMessages: [WaveManagerBP_2] 6
+[2023.07.23-17.01.29:094][285]LogBlueprintUserMessages: [WaveManagerBP_2] 5
+[2023.07.23-17.01.30:091][376]LogBlueprintUserMessages: [WaveManagerBP_2] 4
+[2023.07.23-17.01.31:005][484]Set new viewmode: Unlit
+[2023.07.23-17.01.31:090][494]LogBlueprintUserMessages: [WaveManagerBP_2] 3
+[2023.07.23-17.01.32:094][614]LogBlueprintUserMessages: [WaveManagerBP_2] 2
+[2023.07.23-17.01.33:098][732]LogBlueprintUserMessages: [WaveManagerBP_2] 1
+[2023.07.23-17.01.34:094][845]LogBlueprintUserMessages: [WaveManagerBP_2] 0
+[2023.07.23-17.01.34:094][845]LogBlueprintUserMessages: [WaveManagerBP_2] STARTING WAVE !
+[2023.07.23-17.01.34:536][879]LogCharacterMovement: ZombieCharacter_C_7 is stuck and failed to move! Velocity: X=14.49 Y=153.58 Z=0.00 Location: X=-4225.76 Y=-2019.62 Z=3224.73 Normal: X=-1.00 Y=0.07 Z=0.00 PenetrationDepth:31.187 Actor:ZombieCharacter_C_1 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.07.23-17.01.45:453][970]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.45:661][992]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.45:857][ 13]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.46:058][ 34]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.46:257][ 54]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.46:462][ 75]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.46:671][ 95]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.46:857][113]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.47:859][220]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.48:064][242]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.48:268][264]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.48:469][285]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.48:478][286]LogBlueprintUserMessages: [ZombieCharacter_C_9] ZOMBIE IS DEAD
+[2023.07.23-17.01.48:667][305]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.48:864][325]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.49:068][346]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.49:266][366]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.49:472][387]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.49:672][407]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.49:864][426]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.50:068][446]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.50:269][465]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.50:469][484]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.52:247][657]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.52:452][677]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.52:955][726]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.53:017][732]LogBlueprintUserMessages: [ZombieCharacter_C_8] ZOMBIE IS DEAD
+[2023.07.23-17.01.53:159][745]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.53:362][765]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.53:403][769]LogBlueprintUserMessages: [ZombieCharacter_C_2] ZOMBIE IS DEAD
+[2023.07.23-17.01.53:712][800]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.58:905][298]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.59:108][319]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.59:314][340]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.01.59:513][360]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.02.01:105][522]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.02.01:313][543]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.02.01:418][554]LogBlueprintUserMessages: [ZombieCharacter_C_18] ZOMBIE IS DEAD
+[2023.07.23-17.02.01:508][562]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.02.04:145][824]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.02.04:355][846]LogBlueprintUserMessages: [Rifle] 0.0
+[2023.07.23-17.02.11:250][572]LogBlueprintUserMessages: [WBP_AgesMenu_C_1] IS 1
+[2023.07.23-17.02.14:833][975]LogBlueprintUserMessages: [WBP_AgesMenu_C_1] X=-7160.000 Y=4230.000 Z=3195.000
+[2023.07.23-17.02.20:127][547]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.23-17.02.20:680][601]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.23-17.02.24:935][ 30]LogBlueprintUserMessages: [Pistol] 0.0
+[2023.07.23-17.02.28:901][446]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.07.23-17.02.33:411][919]LogBlueprintUserMessages: [ZombieCharacter_C_19] HIT
+[2023.07.23-17.02.43:193][933]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.43:193][933]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.43:193][933]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.43:193][933]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.43:193][933]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.43:371][952]LogBlueprintUserMessages: [ZombieCharacter_C_19] ZOMBIE IS DEAD
+[2023.07.23-17.02.44:490][ 69]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.44:490][ 69]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.44:491][ 69]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.44:491][ 69]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.44:491][ 69]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.44:502][ 70]LogBlueprintUserMessages: [ZombieCharacter_C_7] ZOMBIE IS DEAD
+[2023.07.23-17.02.46:262][254]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.46:262][254]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.46:262][254]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.46:263][254]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.46:263][254]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.47:354][368]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.47:355][368]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.47:355][368]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.47:355][368]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.47:356][368]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.48:878][525]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.48:878][525]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.48:879][525]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.48:879][525]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.48:879][525]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.48:948][532]LogBlueprintUserMessages: [ZombieCharacter_C_3] ZOMBIE IS DEAD
+[2023.07.23-17.02.52:627][915]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.52:627][915]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.52:627][915]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.52:628][915]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.52:628][915]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.53:910][ 52]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.53:911][ 52]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.53:911][ 52]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.53:911][ 52]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.53:912][ 52]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.55:991][260]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.55:992][260]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.55:992][260]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.55:993][260]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.55:993][260]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.02.56:005][261]LogBlueprintUserMessages: [ZombieCharacter_C_13] ZOMBIE IS DEAD
+[2023.07.23-17.04.37:049][848]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.04.37:049][848]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.04.37:050][848]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.04.37:050][848]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.04.37:050][848]LogBlueprintUserMessages: [Shotgun] 0.0
+[2023.07.23-17.04.52:256][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.23-17.04.52:256][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_BaseLevel
+[2023.07.23-17.04.52:256][617]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.23-17.04.52:262][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.23-17.04.52:270][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.23-17.04.52:279][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.23-17.04.52:325][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.23-17.04.52:326][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.23-17.04.52:327][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.23-17.04.52:327][617]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.07.23-17.04.52:340][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.23-17.04.52:358][617]LogUObjectHash: Compacting FUObjectHashTables data took   9.02ms
+[2023.07.23-17.04.52:394][618]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.07.23-17.05.14:505][881]LogEditorViewport: Clicking on Actor (LMB): HomeObjectiveBP_C (HomeObjectiveBP149)
+[2023.07.23-17.05.27:828][874]LogSlate: Window 'HomeObjectiveBP' being destroyed
+[2023.07.23-17.05.28:759][963]LogSlate: Window 'WBP_AgesMenu' being destroyed
+[2023.07.23-17.07.54:674][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.07.54:798][637]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenu0FFA2AEB4A284E496B1C7B954594FBA6.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.07.54:825][637]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.07.54:825][637]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.08.26:994][371]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorLocation) bSelfContext == true, but no scope supplied!
+[2023.07.23-17.11.09:128][913]LogEditorTransaction: Undo Add Node
+[2023.07.23-17.11.46:739][964]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.07.23-17.11.49:638][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.11.49:771][270]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenu09AE31B24EE0C280825317B92D531D01.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.11.49:797][270]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.11.49:797][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.11.56:917][ 81]BlueprintLog: New page: Compile WBP_AgesMenu
+[2023.07.23-17.11.57:060][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2023.07.23-17.12.36:277][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.12.36:414][385]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenuAC16ACFA478ACCA51DA2AF8A306F7164.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.12.36:438][385]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.12.36:438][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.13.36:709][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.13.36:839][467]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenuDCB531EA4A75D5C0060AEE954DEF0FB1.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.13.36:860][467]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.13.36:860][467]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.13.42:269][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.13.42:401][ 90]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenu01B563834D1B7BDD24BDE79557714709.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.13.42:423][ 90]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.13.42:423][ 90]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.15.06:514][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.15.06:648][969]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenuED3AD13948B0C6A2EF8588B14F3BCA3E.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.15.06:673][969]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.15.06:673][969]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.15.35:885][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.15.36:020][681]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenu001EFC8C4C3E3111B3D52AB4D717362D.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.15.36:042][681]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.15.36:042][681]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.15.38:908][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.15.39:039][995]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenuC12E55E547C83EBDB1BB43968F01E4D9.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.15.39:061][995]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.15.39:061][995]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.17.41:040][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AgesMenu" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset" SILENT=true
+[2023.07.23-17.17.41:171][115]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/WBP_AgesMenu15B00C424AA3B168323A749F05D0F8C1.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/UI/WBP_AgesMenu.uasset'
+[2023.07.23-17.17.41:195][115]AssetCheck: New page: Asset Save: WBP_AgesMenu
+[2023.07.23-17.17.41:195][115]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_AgesMenu.WBP_AgesMenu
+[2023.07.23-17.17.43:118][323]BlueprintLog: New page: Compile WBP_AgesMenu
+[2023.07.23-17.17.43:275][323]LogUObjectHash: Compacting FUObjectHashTables data took   8.81ms
+[2023.07.23-17.17.45:102][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BaseLevel" FILE="../../../../../../Users/user/Desktop/BlackAges2/Content/Levels/BaseLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.23-17.17.45:164][451]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2023.07.23-17.17.45:558][451]LogSavePackage: Moving '../../../../../../Users/user/Desktop/BlackAges2/Saved/BaseLevel45CB00334E85BEBD164D88915B92A88B.tmp' to '../../../../../../Users/user/Desktop/BlackAges2/Content/Levels/BaseLevel.umap'
+[2023.07.23-17.17.45:607][451]AssetCheck: New page: Asset Save: BaseLevel
+[2023.07.23-17.17.45:607][451]LogContentValidation: Display: Validating World /Game/Levels/BaseLevel.BaseLevel
