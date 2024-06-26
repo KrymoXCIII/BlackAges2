@@ -8,7 +8,7 @@ public class BlackAgesRemaster : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "LlamaCore" });//, "UELlama" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "UELlama" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

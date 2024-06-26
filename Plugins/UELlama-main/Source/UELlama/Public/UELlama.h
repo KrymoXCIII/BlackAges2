@@ -1,13 +1,14 @@
-// 2023 (c) Mika Pi, Modifications Getnamo
+// Copyright (c) 2023 Mika Pi
 
 #pragma once
 
 #include <CoreMinimal.h>
 #include <Modules/ModuleManager.h>
 
-class FLlamaCoreModule final : public IModuleInterface
+class FUELlamaModule final : public IModuleInterface
 {
 public:
   virtual void StartupModule() override;
   virtual void ShutdownModule() override;
+
 };
