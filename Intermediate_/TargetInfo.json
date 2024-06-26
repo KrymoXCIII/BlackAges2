@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BlackAgesRemaster",
+			"Path": "..\\Source\\BlackAgesRemaster.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BlackAgesRemasterEditor",
+			"Path": "..\\Source\\BlackAgesRemasterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

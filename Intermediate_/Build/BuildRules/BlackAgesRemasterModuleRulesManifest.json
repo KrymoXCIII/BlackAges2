@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Karym\\Documents\\GitHub\\BlackAgesRemaster\\Source\\BlackAgesRemaster\\BlackAgesRemaster.Build.cs",
+		"C:\\Users\\Karym\\Documents\\GitHub\\BlackAgesRemaster\\Plugins\\Llama-Unreal\\Source\\LlamaCore\\LlamaCore.Build.cs",
+		"C:\\Users\\Karym\\Documents\\GitHub\\BlackAgesRemaster\\Source\\BlackAgesRemaster.Target.cs",
+		"C:\\Users\\Karym\\Documents\\GitHub\\BlackAgesRemaster\\Source\\BlackAgesRemasterEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

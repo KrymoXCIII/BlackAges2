@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BlackAgesRemaster.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Intermediate\Build\Win64\x64\BlackAgesRemasterEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlackAgesRemaster\BlackAgesRemaster.cpp.obj"
+"C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlackAgesRemaster\CppEnable.cpp.obj"
+"C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlackAgesRemaster\Default.rc2.res"
+/OUT:"C:\Users\Karym\Documents\GitHub\BlackAgesRemaster\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlackAgesRemaster\UnrealEditor-BlackAgesRemaster.lib"

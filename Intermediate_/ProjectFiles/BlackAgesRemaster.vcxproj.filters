@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BlackAgesRemaster.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlackAgesRemaster.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BlackAgesRemasterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Llama-Unreal">
+      <UniqueIdentifier>{E5194EFA-FF87-3C1C-A114-4CDEFEAD7E12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Llama-Unreal\Source">
+      <UniqueIdentifier>{A9CD9A98-1505-3CE7-A9B8-A46917C6A47C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Llama-Unreal\Source\LlamaCore">
+      <UniqueIdentifier>{C94B9CA3-82A7-3FB0-B95F-F0ED982EA543}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\LlamaCore.Build.cs">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore</Filter>
+    </None>
+    <Filter Include="Plugins\Llama-Unreal\Source\LlamaCore\Private">
+      <UniqueIdentifier>{6505EBF1-D559-3F5C-B096-36A28F6D1255}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\LlamaComponent.cpp">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\LlamaCore.cpp">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Llama-Unreal\Source\LlamaCore\Private\common">
+      <UniqueIdentifier>{B8632C54-FD65-3E9F-8865-BDFB6204BB91}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\common\common.cpp">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private\common</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\common\common.h">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\common\gguf.h">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private\common</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\common\grammar-parser.cpp">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private\common</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\common\grammar-parser.h">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private\common</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\common\sampling.cpp">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private\common</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Private\common\sampling.h">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Private\common</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Llama-Unreal\Source\LlamaCore\Public">
+      <UniqueIdentifier>{3C64DF89-40BA-3AA2-81F1-53F0350397BF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Public\LlamaComponent.h">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Llama-Unreal\Source\LlamaCore\Public\LlamaCore.h">
+      <Filter>Plugins\Llama-Unreal\Source\LlamaCore\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\Llama-Unreal\Llama.uplugin">
+      <Filter>Plugins\Llama-Unreal</Filter>
+    </None>
+    <Filter Include="Source\BlackAgesRemaster">
+      <UniqueIdentifier>{25A5CF85-AB9B-3A34-A8CC-11B17BFF37DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlackAgesRemaster\BlackAgesRemaster.Build.cs">
+      <Filter>Source\BlackAgesRemaster</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BlackAgesRemaster\BlackAgesRemaster.cpp">
+      <Filter>Source\BlackAgesRemaster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlackAgesRemaster\BlackAgesRemaster.h">
+      <Filter>Source\BlackAgesRemaster</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlackAgesRemaster\CppEnable.cpp">
+      <Filter>Source\BlackAgesRemaster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlackAgesRemaster\CppEnable.h">
+      <Filter>Source\BlackAgesRemaster</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
